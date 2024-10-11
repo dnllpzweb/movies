@@ -1,4567 +1,4567 @@
 ﻿1
-00:01:14,500 --> 00:01:17,550
+00:01:14,448 --> 00:01:17,498
 M doesn't mind you earning
 a little money on the side, Dryden.
 
 2
-00:01:17,810 --> 00:01:21,140
+00:01:17,758 --> 00:01:21,088
 She'd just prefer it
 if it wasn't selling secrets.
 
 3
-00:01:30,719 --> 00:01:32,869
+00:01:30,667 --> 00:01:32,817
 If the theatrics
 are supposed to scare me...
 
 4
-00:01:33,060 --> 00:01:35,549
+00:01:33,008 --> 00:01:35,497
 ...you have the wrong man, Bond.
 
 5
-00:01:36,129 --> 00:01:39,120
+00:01:36,077 --> 00:01:39,068
 If M was so sure that I was bent...
 
 6
-00:01:39,329 --> 00:01:41,259
+00:01:39,277 --> 00:01:41,207
 ...she'd have sent a double-0.
 
 7
-00:01:42,270 --> 00:01:44,670
+00:01:42,218 --> 00:01:44,618
 Benefits of being section chief...
 
 8
-00:01:44,870 --> 00:01:47,657
+00:01:44,818 --> 00:01:47,605
 ...I'd know if anyone had been
 promoted to double-0 status...
 
 9
-00:01:47,740 --> 00:01:49,030
+00:01:47,688 --> 00:01:48,978
 ...wouldn't I?
 
 10
-00:01:50,140 --> 00:01:54,629
+00:01:50,088 --> 00:01:54,577
 - Your file shows no kills, and it takes...
 - Two.
 
 11
-00:02:11,830 --> 00:02:13,590
+00:02:11,778 --> 00:02:13,538
 Shame.
 
 12
-00:02:13,960 --> 00:02:16,259
+00:02:13,908 --> 00:02:16,207
 We barely got to know each other.
 
 13
-00:02:19,939 --> 00:02:21,490
+00:02:19,887 --> 00:02:21,438
 I know where you keep your gun.
 
 14
-00:02:23,509 --> 00:02:25,530
+00:02:23,457 --> 00:02:25,478
 I suppose that's something.
 
 15
-00:02:26,879 --> 00:02:28,900
+00:02:26,827 --> 00:02:28,848
 True.
 
 16
-00:02:29,780 --> 00:02:31,139
+00:02:29,728 --> 00:02:31,087
 How did he die?
 
 17
-00:02:31,349 --> 00:02:32,810
+00:02:31,297 --> 00:02:32,758
 Your contact?
 
 18
-00:02:33,520 --> 00:02:34,520
+00:02:33,468 --> 00:02:34,468
 Not well.
 
 19
-00:03:19,800 --> 00:03:21,460
+00:03:19,748 --> 00:03:21,408
 Made you feel it, did he?
 
 20
-00:03:24,930 --> 00:03:26,699
+00:03:24,878 --> 00:03:26,647
 Well...
 
 21
-00:03:27,039 --> 00:03:29,129
+00:03:26,987 --> 00:03:29,077
 ...you needn't worry.
 
 22
-00:03:29,670 --> 00:03:31,259
+00:03:29,618 --> 00:03:31,207
 The second is...
 
 23
-00:03:35,240 --> 00:03:37,079
+00:03:35,188 --> 00:03:37,027
 Yes.
 
 24
-00:03:37,449 --> 00:03:39,939
+00:03:37,397 --> 00:03:39,887
 Considerably.
 
 25
-00:07:33,220 --> 00:07:37,149
+00:07:33,168 --> 00:07:37,097
 So how do I trust this man
 that I've never met with my money?
 
 26
-00:07:37,490 --> 00:07:39,920
+00:07:37,438 --> 00:07:39,868
 You asked for the introduction.
 
 27
-00:07:40,120 --> 00:07:42,350
+00:07:40,068 --> 00:07:42,298
 That's all my organization will guarantee.
 
 28
-00:08:22,699 --> 00:08:25,430
+00:08:22,647 --> 00:08:25,378
 I suppose our friend
 Mr. White will have told you...
 
 29
-00:08:25,629 --> 00:08:28,017
+00:08:25,577 --> 00:08:27,965
 ...that I have provided
 reliable banking services...
 
 30
-00:08:28,100 --> 00:08:30,800
+00:08:28,048 --> 00:08:30,748
 ...for many other
 freedom fighters over the years.
 
 31
-00:08:35,580 --> 00:08:37,879
+00:08:35,528 --> 00:08:37,827
 Do you believe in God,
 Mr. Le Chiffre?
 
 32
-00:08:38,080 --> 00:08:39,710
+00:08:38,028 --> 00:08:39,658
 No.
 
 33
-00:08:39,919 --> 00:08:42,580
+00:08:39,867 --> 00:08:42,528
 I believe in a reasonable rate of return.
 
 34
-00:08:42,789 --> 00:08:45,049
+00:08:42,737 --> 00:08:44,997
 I want no risk in the portfolio.
 
 35
-00:08:45,250 --> 00:08:46,519
+00:08:45,198 --> 00:08:46,467
 Agreed.
 
 36
-00:08:46,720 --> 00:08:48,737
+00:08:46,668 --> 00:08:48,685
 And I can access it anywhere in the world?
 
 37
-00:08:48,820 --> 00:08:49,919
+00:08:48,768 --> 00:08:49,867
 Yes.
 
 38
-00:09:08,480 --> 00:09:11,110
+00:09:08,428 --> 00:09:11,058
 I have the money,
 so short another million shares...
 
 39
-00:09:11,309 --> 00:09:12,970
+00:09:11,257 --> 00:09:12,918
 ...of Skyfleet stock.
 
 40
-00:09:13,179 --> 00:09:17,049
+00:09:13,127 --> 00:09:16,997
 Sir, you must know you're betting
 against the market.
 
 41
-00:09:17,250 --> 00:09:20,419
+00:09:17,198 --> 00:09:20,367
 No one expects this stock
 to go anywhere but up.
 
 42
-00:09:20,620 --> 00:09:23,320
+00:09:20,568 --> 00:09:23,268
 Just do it.
 
 43
-00:09:58,090 --> 00:10:00,559
+00:09:58,038 --> 00:10:00,507
 Looks like our man.
 Burn scars on his face.
 
 44
-00:10:03,129 --> 00:10:05,929
+00:10:03,077 --> 00:10:05,877
 I wonder if bomb-makers
 are insured for things like that.
 
 45
-00:10:20,620 --> 00:10:22,019
+00:10:20,568 --> 00:10:21,967
 He's on the move.
 
 46
-00:10:22,649 --> 00:10:25,149
+00:10:22,597 --> 00:10:25,097
 He's on the move,
 and he's heading straight for me.
 
 47
-00:10:25,960 --> 00:10:28,009
+00:10:25,908 --> 00:10:27,957
 Stop touching your ear.
 
 48
-00:10:28,220 --> 00:10:30,279
+00:10:28,168 --> 00:10:30,227
 - Sorry?
 - Put your hand down.
 
 49
-00:10:36,769 --> 00:10:39,319
+00:10:36,717 --> 00:10:39,267
 Holster the bloody weapon, Carter.
 I need him alive.
 
 50
-00:20:10,509 --> 00:20:13,526
+00:20:10,457 --> 00:20:13,474
 Weeping blood comes merely
 from a derangement of the tear duct...
 
 51
-00:20:13,609 --> 00:20:15,009
+00:20:13,557 --> 00:20:14,957
 ...my dear general.
 
 52
-00:20:15,980 --> 00:20:17,240
+00:20:15,928 --> 00:20:17,188
 Nothing sinister.
 
 53
-00:20:22,519 --> 00:20:23,880
+00:20:22,467 --> 00:20:23,828
 All in.
 
 54
-00:20:26,789 --> 00:20:29,809
+00:20:26,737 --> 00:20:29,757
 I have two pair, and you have
 a 17.4 percent chance...
 
 55
-00:20:30,029 --> 00:20:32,119
+00:20:29,977 --> 00:20:32,067
 ...of making your straight.
 
 56
-00:20:58,549 --> 00:21:00,890
+00:20:58,497 --> 00:21:00,838
 When does Ellipsis expire?
 
 57
-00:21:01,089 --> 00:21:04,250
+00:21:01,037 --> 00:21:04,198
 - We have less than 36 hours. I can...
 - No. No, no.
 
 58
-00:21:04,460 --> 00:21:07,190
+00:21:04,408 --> 00:21:07,138
 That's all the time I have anyway.
 
 59
-00:21:08,930 --> 00:21:11,130
+00:21:08,878 --> 00:21:11,078
 Give our guests five minutes to leave...
 
 60
-00:21:11,329 --> 00:21:13,630
+00:21:11,277 --> 00:21:13,578
 ...or throw them overboard.
 
 61
-00:21:25,180 --> 00:21:26,980
+00:21:25,128 --> 00:21:26,928
 Who the hell do they think they are?
 
 62
-00:21:27,150 --> 00:21:29,766
+00:21:27,098 --> 00:21:29,714
 I report to the prime minister,
 even he's smart enough...
 
 63
-00:21:29,849 --> 00:21:31,167
+00:21:29,797 --> 00:21:31,115
 ...not to ask me what we do.
 
 64
-00:21:31,250 --> 00:21:34,950
+00:21:31,198 --> 00:21:34,898
 Have you ever seen such a bunch
 of self-righteous, arse-covering prigs?
 
 65
-00:21:35,160 --> 00:21:38,176
+00:21:35,108 --> 00:21:38,124
 They don't care what we do, they care
 what we get photographed doing.
 
 66
-00:21:38,259 --> 00:21:40,819
+00:21:38,207 --> 00:21:40,767
 And how the hell could Bond be so stupid?
 
 67
-00:21:41,029 --> 00:21:44,016
+00:21:40,977 --> 00:21:43,964
 I give him double-0 status,
 he celebrates by shooting an embassy.
 
 68
-00:21:44,099 --> 00:21:46,500
+00:21:44,047 --> 00:21:46,448
 Is the man deranged?
 And where the hell is he?
 
 69
-00:21:46,700 --> 00:21:49,357
+00:21:46,648 --> 00:21:49,305
 In the old days, if an agent
 did something embarrassing...
 
 70
-00:21:49,440 --> 00:21:51,186
+00:21:49,388 --> 00:21:51,134
 ...he'd have the good sense
 to defect.
 
 71
-00:21:51,269 --> 00:21:53,099
+00:21:51,217 --> 00:21:53,047
 Christ, I miss the Cold War.
 
 72
-00:23:09,720 --> 00:23:11,380
+00:23:09,668 --> 00:23:11,328
 You've got a bloody cheek.
 
 73
-00:23:11,589 --> 00:23:13,079
+00:23:11,537 --> 00:23:13,027
 Sorry.
 
 74
-00:23:13,289 --> 00:23:15,189
+00:23:13,237 --> 00:23:15,137
 I'll shoot the camera first next time.
 
 75
-00:23:15,289 --> 00:23:16,950
+00:23:15,237 --> 00:23:16,898
 Or yourself.
 
 76
-00:23:17,160 --> 00:23:19,180
+00:23:17,108 --> 00:23:19,128
 You stormed into an embassy.
 
 77
-00:23:19,390 --> 00:23:21,920
+00:23:19,338 --> 00:23:21,868
 You violated the only
 absolutely inviolate rule...
 
 78
-00:23:22,130 --> 00:23:23,830
+00:23:22,078 --> 00:23:23,778
 ...of international relationships.
 
 79
-00:23:23,930 --> 00:23:25,869
+00:23:23,878 --> 00:23:25,817
 And why?
 So you could kill a nobody.
 
 80
-00:23:26,069 --> 00:23:28,069
+00:23:26,017 --> 00:23:28,017
 We wanted to question him, not kill him.
 
 81
-00:23:29,269 --> 00:23:32,286
+00:23:29,217 --> 00:23:32,234
 For God's sake. You're supposed
 to display some kind of judgment.
 
 82
-00:23:32,369 --> 00:23:33,430
+00:23:32,317 --> 00:23:33,378
 I did.
 
 83
-00:23:34,109 --> 00:23:36,766
+00:23:34,057 --> 00:23:36,714
 I thought one less bomb-maker
 in the world would be good.
 
 84
-00:23:36,849 --> 00:23:38,640
+00:23:36,797 --> 00:23:38,588
 Exactly. One bomb-maker.
 
 85
-00:23:39,180 --> 00:23:42,797
+00:23:39,128 --> 00:23:42,745
 We're trying to find out how an entire
 network of terrorist groups is financed...
 
 86
-00:23:42,880 --> 00:23:44,506
+00:23:42,828 --> 00:23:44,454
 ...and you give us one bomb-maker.
 
 87
-00:23:44,589 --> 00:23:46,710
+00:23:44,537 --> 00:23:46,658
 Hardly the big picture, wouldn't you say?
 
 88
-00:23:46,920 --> 00:23:50,150
+00:23:46,868 --> 00:23:50,098
 The man isn't even a true believer.
 He's a gun for hire.
 
 89
-00:23:50,359 --> 00:23:52,190
+00:23:50,307 --> 00:23:52,138
 And thanks to your trigger finger...
 
 90
-00:23:52,390 --> 00:23:55,259
+00:23:52,338 --> 00:23:55,207
 ...we have no idea
 who hired him or why.
 
 91
-00:23:55,460 --> 00:23:57,810
+00:23:55,408 --> 00:23:57,758
 And how the hell
 did you find out where I lived?
 
 92
-00:23:58,000 --> 00:23:59,716
+00:23:57,948 --> 00:23:59,664
 The same way I found out your name.
 
 93
-00:23:59,799 --> 00:24:02,857
+00:23:59,747 --> 00:24:02,805
 I thought "M" was randomly assigned.
 I had no idea it stood for...
 
 94
-00:24:02,940 --> 00:24:05,410
+00:24:02,888 --> 00:24:05,358
 Utter one more syllable
 and I'll have you killed.
 
 95
-00:24:06,910 --> 00:24:09,599
+00:24:06,858 --> 00:24:09,547
 I knew it was too early to promote you.
 
 96
-00:24:10,150 --> 00:24:14,079
+00:24:10,098 --> 00:24:14,027
 Well, I understand double-0s
 have a very short life-expectancy...
 
 97
-00:24:14,279 --> 00:24:16,480
+00:24:14,227 --> 00:24:16,428
 ...so your mistake will be short-lived.
 
 98
-00:24:22,720 --> 00:24:27,630
+00:24:22,668 --> 00:24:27,578
 Bond, this may be too much
 for a blunt instrument to understand...
 
 99
-00:24:27,829 --> 00:24:31,200
+00:24:27,777 --> 00:24:31,148
 ...but arrogance and self-awareness
 seldom go hand in hand.
 
 100
-00:24:31,829 --> 00:24:34,529
+00:24:31,777 --> 00:24:34,477
 So you want me to be half monk,
 half hit-man?
 
 101
-00:24:34,740 --> 00:24:36,599
+00:24:34,688 --> 00:24:36,547
 Any thug can kill.
 
 102
-00:24:36,809 --> 00:24:39,259
+00:24:36,757 --> 00:24:39,207
 I want you to take your ego
 out of the equation...
 
 103
-00:24:39,410 --> 00:24:41,930
+00:24:39,358 --> 00:24:41,878
 ...and to judge the situation
 dispassionately.
 
 104
-00:24:42,809 --> 00:24:45,910
+00:24:42,757 --> 00:24:45,858
 I have to know I can trust you,
 and that you know who to trust.
 
 105
-00:24:47,220 --> 00:24:50,740
+00:24:47,168 --> 00:24:50,688
 And since I don't know that,
 I need you out of my sight.
 
 106
-00:24:50,950 --> 00:24:53,107
+00:24:50,898 --> 00:24:53,055
 Go and stick your head
 in the sand somewhere...
 
 107
-00:24:53,190 --> 00:24:54,676
+00:24:53,138 --> 00:24:54,624
 ...and think about your future.
 
 108
-00:24:54,759 --> 00:24:57,660
+00:24:54,707 --> 00:24:57,608
 Because these bastards want your head.
 
 109
-00:24:57,859 --> 00:25:01,319
+00:24:57,807 --> 00:25:01,267
 And I'm seriously considering
 feeding you to them.
 
 110
-00:25:08,670 --> 00:25:10,660
+00:25:08,618 --> 00:25:10,608
 And Bond...
 
 111
-00:25:14,079 --> 00:25:16,670
+00:25:14,027 --> 00:25:16,618
 ...don't ever break into
 my house again.
 
 112
-00:25:17,650 --> 00:25:19,549
+00:25:17,598 --> 00:25:19,497
 Ma'am.
 
 113
-00:26:32,250 --> 00:26:35,089
+00:26:32,198 --> 00:26:35,037
 Good day, sir,
 and welcome to the Ocean Club.
 
 114
-00:26:40,099 --> 00:26:42,329
+00:26:40,047 --> 00:26:42,277
 Hey. Hey.
 
 115
-00:26:54,509 --> 00:26:56,140
+00:26:54,457 --> 00:26:56,088
 Hello.
 
 116
-00:26:56,339 --> 00:26:58,470
+00:26:56,287 --> 00:26:58,418
 Are you going to take this
 or make me wait?
 
 117
-00:26:59,509 --> 00:27:01,980
+00:26:59,457 --> 00:27:01,928
 Certainly, sir. Sorry, sir.
 
 118
-00:27:45,390 --> 00:27:48,329
+00:27:45,338 --> 00:27:48,277
 Security to car park.
 Security to car park.
 
 119
-00:27:48,529 --> 00:27:50,230
+00:27:48,477 --> 00:27:50,178
 Absolutely incredible.
 
 120
-00:29:29,329 --> 00:29:31,819
+00:29:29,277 --> 00:29:31,767
 Welcome to the Ocean Club, sir.
 Checking in?
 
 121
-00:29:32,029 --> 00:29:35,587
+00:29:31,977 --> 00:29:35,535
 Yes. But it's a spur-of-the-moment
 thing, and I haven't got a reservation.
 
 122
-00:29:35,670 --> 00:29:37,069
+00:29:35,618 --> 00:29:37,017
 Okay.
 
 123
-00:29:38,569 --> 00:29:41,940
+00:29:38,517 --> 00:29:41,888
 - We have an ocean-view villa.
 - Perfect.
 
 124
-00:29:44,980 --> 00:29:47,380
+00:29:44,928 --> 00:29:47,328
 Could you do me a favor?
 I was here last night...
 
 125
-00:29:47,519 --> 00:29:51,470
+00:29:47,467 --> 00:29:51,418
 ...and I parked my car next to
 a very beautiful 1964 Aston Martin.
 
 126
-00:29:51,690 --> 00:29:53,907
+00:29:51,638 --> 00:29:53,855
 I nicked the door.
 You wouldn't happen to know...?
 
 127
-00:29:53,990 --> 00:29:56,420
+00:29:53,938 --> 00:29:56,368
 - Mr. Dimitrios.
 - Right.
 
 128
-00:29:57,059 --> 00:29:59,476
+00:29:57,007 --> 00:29:59,424
 If he hasn't noticed,
 I'm not sure I'd mention it.
 
 129
-00:29:59,559 --> 00:30:01,409
+00:29:59,507 --> 00:30:01,357
 Isn't the type to take bad news well.
 
 130
-00:30:02,130 --> 00:30:05,099
+00:30:02,078 --> 00:30:05,047
 But if I felt compelled to find him?
 
 131
-00:30:06,230 --> 00:30:08,359
+00:30:06,178 --> 00:30:08,307
 He has a house just up the beach.
 
 132
-00:30:10,000 --> 00:30:11,299
+00:30:09,948 --> 00:30:11,247
 Thank you.
 
 133
-00:31:12,400 --> 00:31:15,099
+00:31:12,348 --> 00:31:15,047
 - What?
 - He's in the Bahamas.
 
 134
-00:31:15,299 --> 00:31:17,740
+00:31:15,247 --> 00:31:17,688
 You woke me to share his holiday plans?
 
 135
-00:31:17,940 --> 00:31:20,026
+00:31:17,888 --> 00:31:19,974
 Well, he's logged into
 our secure website...
 
 136
-00:31:20,109 --> 00:31:22,170
+00:31:20,057 --> 00:31:22,118
 ...using your name and password.
 
 137
-00:31:22,380 --> 00:31:25,240
+00:31:22,328 --> 00:31:25,188
 Well, how the hell
 does he know these things?
 
 138
-00:31:25,450 --> 00:31:27,809
+00:31:25,398 --> 00:31:27,757
 Well, I'm doing my best to find out.
 
 139
-00:31:28,019 --> 00:31:31,880
+00:31:27,967 --> 00:31:31,828
 - Who's he looking at?
 - Alex Dimitrios.
 
 140
-00:31:32,289 --> 00:31:33,910
+00:31:32,237 --> 00:31:33,858
 That slimy bugger.
 
 141
-00:31:44,500 --> 00:31:46,400
+00:31:44,448 --> 00:31:46,348
 Now known associates...
 
 142
-00:31:58,109 --> 00:31:59,549
+00:31:58,057 --> 00:31:59,497
 Le Chiffre.
 
 143
-00:32:15,960 --> 00:32:18,630
+00:32:15,908 --> 00:32:18,578
 We've had a good night,
 we've had a few drinks.
 
 144
-00:32:19,569 --> 00:32:21,299
+00:32:19,517 --> 00:32:21,247
 How can I assist you, sir?
 
 145
-00:32:21,500 --> 00:32:23,850
+00:32:21,448 --> 00:32:23,798
 Good evening.
 Large Mount Gay with soda, please.
 
 146
-00:32:24,609 --> 00:32:26,686
+00:32:24,557 --> 00:32:26,634
 - Look what just happened.
 - Good job, big boy.
 
 147
-00:32:26,769 --> 00:32:28,000
+00:32:26,717 --> 00:32:27,948
 Yeah.
 
 148
-00:32:35,880 --> 00:32:36,966
+00:32:35,828 --> 00:32:36,914
 Do you mind if I join?
 
 149
-00:32:37,049 --> 00:32:39,399
+00:32:36,997 --> 00:32:39,347
 - Oh, good evening. How are you?
 - Good evening.
 
 150
-00:32:50,930 --> 00:32:52,869
+00:32:50,878 --> 00:32:52,817
 Small blind, big blind.
 
 151
-00:32:53,069 --> 00:32:54,730
+00:32:53,017 --> 00:32:54,678
 I'm in.
 
 152
-00:32:57,140 --> 00:32:58,829
+00:32:57,088 --> 00:32:58,777
 Bet's to you.
 
 153
-00:33:01,509 --> 00:33:04,269
+00:33:01,457 --> 00:33:04,217
 If that was for luck,
 you're two hours late.
 
 154
-00:33:05,880 --> 00:33:08,109
+00:33:05,828 --> 00:33:08,057
 Two hundred to you.
 
 155
-00:33:12,990 --> 00:33:14,250
+00:33:12,938 --> 00:33:14,198
 Bet's to you.
 
 156
-00:33:14,460 --> 00:33:15,950
+00:33:14,408 --> 00:33:15,898
 I heard you.
 
 157
-00:33:16,589 --> 00:33:18,349
+00:33:16,537 --> 00:33:18,297
 Five to call.
 
 158
-00:33:21,960 --> 00:33:23,377
+00:33:21,908 --> 00:33:23,325
 - Action's to you.
 - Pair of sevens.
 
 159
-00:33:23,460 --> 00:33:24,829
+00:33:23,408 --> 00:33:24,777
 Ace high.
 
 160
-00:33:26,500 --> 00:33:27,970
+00:33:26,448 --> 00:33:27,918
 Check or bet.
 
 161
-00:33:28,170 --> 00:33:29,660
+00:33:28,118 --> 00:33:29,608
 - Check.
 - And to you.
 
 162
-00:33:29,869 --> 00:33:31,809
+00:33:29,817 --> 00:33:31,757
 Five thousand.
 
 163
-00:33:35,880 --> 00:33:37,210
+00:33:35,828 --> 00:33:37,158
 Five to call.
 
 164
-00:33:49,059 --> 00:33:51,420
+00:33:49,007 --> 00:33:51,368
 - Check.
 - Check to you, sir.
 
 165
-00:33:53,230 --> 00:33:54,420
+00:33:53,178 --> 00:33:54,368
 All in.
 
 166
-00:33:55,099 --> 00:33:56,890
+00:33:55,047 --> 00:33:56,838
 No, wait.
 
 167
-00:33:57,299 --> 00:33:58,769
+00:33:57,247 --> 00:33:58,717
 Twenty thousand.
 
 168
-00:33:59,099 --> 00:34:01,500
+00:33:59,047 --> 00:34:01,448
 Table stakes. I'm sorry, sir.
 
 169
-00:34:04,069 --> 00:34:08,099
+00:34:04,017 --> 00:34:08,047
 Okay. This is on the table.
 That's my car. Wanna bet?
 
 170
-00:34:09,780 --> 00:34:11,639
+00:34:09,728 --> 00:34:11,587
 I'm sorry, Mr. Dimitrios.
 
 171
-00:34:11,849 --> 00:34:14,840
+00:34:11,797 --> 00:34:14,788
 Please, no. Give him a chance
 to win his money back.
 
 172
-00:34:25,059 --> 00:34:26,789
+00:34:25,007 --> 00:34:26,737
 All right, show me, gentlemen.
 
 173
-00:34:31,800 --> 00:34:33,230
+00:34:31,748 --> 00:34:33,178
 Three kings.
 
 174
-00:34:39,409 --> 00:34:41,170
+00:34:39,357 --> 00:34:41,118
 There you go with my night.
 
 175
-00:34:41,380 --> 00:34:42,769
+00:34:41,328 --> 00:34:42,717
 Trip aces.
 
 176
-00:34:42,980 --> 00:34:45,070
+00:34:42,928 --> 00:34:45,018
 Aces win.
 
 177
-00:34:48,820 --> 00:34:50,110
+00:34:48,768 --> 00:34:50,058
 Oh, and the valet ticket.
 
 178
-00:34:54,460 --> 00:34:55,889
+00:34:54,408 --> 00:34:55,837
 Thank you.
 
 179
-00:34:56,090 --> 00:34:57,559
+00:34:56,038 --> 00:34:57,507
 Sir.
 
 180
-00:35:29,719 --> 00:35:32,059
+00:35:29,667 --> 00:35:32,007
 - Thank you.
 - Thank you, sir.
 
 181
-00:35:33,090 --> 00:35:36,260
+00:35:33,038 --> 00:35:36,208
 No wonder he was in such a foul mood.
 
 182
-00:35:37,500 --> 00:35:38,690
+00:35:37,448 --> 00:35:38,638
 My mistake.
 
 183
-00:35:38,900 --> 00:35:40,250
+00:35:38,848 --> 00:35:40,198
 Can I give you a lift home?
 
 184
-00:35:40,840 --> 00:35:44,199
+00:35:40,788 --> 00:35:44,147
 That would really send him over the edge.
 
 185
-00:35:44,409 --> 00:35:46,340
+00:35:44,357 --> 00:35:46,288
 I'm afraid I'm not that cruel.
 
 186
-00:35:46,639 --> 00:35:48,739
+00:35:46,587 --> 00:35:48,687
 Well, perhaps you're just out of practice.
 
 187
-00:35:56,420 --> 00:35:57,710
+00:35:56,368 --> 00:35:57,658
 Perhaps.
 
 188
-00:35:57,920 --> 00:35:59,770
+00:35:57,868 --> 00:35:59,718
 Well, what about a drink at my place?
 
 189
-00:36:00,550 --> 00:36:02,550
+00:36:00,498 --> 00:36:02,498
 Your place?
 
 190
-00:36:02,989 --> 00:36:05,820
+00:36:02,937 --> 00:36:05,768
 - Is it close?
 - Very.
 
 191
-00:36:12,230 --> 00:36:14,099
+00:36:12,178 --> 00:36:14,047
 One drink.
 
 192
-00:36:39,429 --> 00:36:41,147
+00:36:39,377 --> 00:36:41,095
 Good evening, sir, and welcome back.
 
 193
-00:36:41,230 --> 00:36:43,130
+00:36:41,178 --> 00:36:43,078
 Welcome to my home.
 
 194
-00:36:55,380 --> 00:36:58,440
+00:36:55,328 --> 00:36:58,388
 I'm having a hard time seeing
 how this is my fault.
 
 195
-00:36:58,650 --> 00:37:01,309
+00:36:58,598 --> 00:37:01,257
 It's your plan.
 All I did was get you the man.
 
 196
-00:37:01,519 --> 00:37:06,010
+00:37:01,467 --> 00:37:05,958
 A man who was under surveillance
 by the British Secret Service.
 
 197
-00:37:07,820 --> 00:37:10,289
+00:37:07,768 --> 00:37:10,237
 Which makes me wonder
 if I can trust you at all.
 
 198
-00:37:10,590 --> 00:37:13,059
+00:37:10,538 --> 00:37:13,007
 Then don't. I couldn't care less.
 
 199
-00:37:13,260 --> 00:37:15,230
+00:37:13,208 --> 00:37:15,178
 But I do care about my reputation.
 
 200
-00:37:16,199 --> 00:37:18,429
+00:37:16,147 --> 00:37:18,377
 I have someone else willing to do the job.
 
 201
-00:37:18,630 --> 00:37:20,429
+00:37:18,578 --> 00:37:20,377
 He just needs the particulars...
 
 202
-00:37:21,269 --> 00:37:23,030
+00:37:21,217 --> 00:37:22,978
 ...and payment.
 
 203
-00:37:34,050 --> 00:37:37,639
+00:37:33,998 --> 00:37:37,587
 You like married women, don't you, James?
 
 204
-00:37:37,849 --> 00:37:40,050
+00:37:37,797 --> 00:37:39,998
 It keeps things simple.
 
 205
-00:37:42,989 --> 00:37:45,789
+00:37:42,937 --> 00:37:45,737
 What is it about bad men?
 
 206
-00:37:45,989 --> 00:37:48,960
+00:37:45,937 --> 00:37:48,908
 You, my husband...
 
 207
-00:37:49,159 --> 00:37:51,829
+00:37:49,107 --> 00:37:51,777
 I had so many chances to be happy...
 
 208
-00:37:52,030 --> 00:37:54,400
+00:37:51,978 --> 00:37:54,348
 ...so many nice guys.
 
 209
-00:37:54,599 --> 00:37:57,300
+00:37:54,547 --> 00:37:57,248
 Why can't nice guys be more like you?
 
 210
-00:37:57,510 --> 00:37:59,739
+00:37:57,458 --> 00:37:59,687
 Well, because then they'd be bad.
 
 211
-00:38:00,670 --> 00:38:02,940
+00:38:00,618 --> 00:38:02,888
 Yes.
 
 212
-00:38:05,679 --> 00:38:08,510
+00:38:05,627 --> 00:38:08,458
 But so much more interesting.
 
 213
-00:38:12,949 --> 00:38:15,389
+00:38:12,897 --> 00:38:15,337
 What makes your husband a bad man?
 
 214
-00:38:15,590 --> 00:38:18,150
+00:38:15,538 --> 00:38:18,098
 His nature, I suppose.
 
 215
-00:38:18,360 --> 00:38:20,019
+00:38:18,308 --> 00:38:19,967
 The nature of his work?
 
 216
-00:38:20,230 --> 00:38:23,889
+00:38:20,178 --> 00:38:23,837
 A mystery, I'm afraid.
 
 217
-00:38:24,570 --> 00:38:29,869
+00:38:24,518 --> 00:38:29,817
 I'm also afraid you will sleep with me
 in order to get to him.
 
 218
-00:38:30,070 --> 00:38:32,539
+00:38:30,018 --> 00:38:32,487
 How afraid?
 
 219
-00:38:33,110 --> 00:38:35,909
+00:38:33,058 --> 00:38:35,857
 Not enough to stop.
 
 220
-00:38:43,480 --> 00:38:45,650
+00:38:43,428 --> 00:38:45,598
 Can I ask you a personal question?
 
 221
-00:38:47,320 --> 00:38:50,980
+00:38:47,268 --> 00:38:50,928
 Now would seem an appropriate time.
 
 222
-00:38:51,190 --> 00:38:53,559
+00:38:51,138 --> 00:38:53,507
 Does "ellipsis" mean anything to you?
 
 223
-00:39:02,900 --> 00:39:04,869
+00:39:02,848 --> 00:39:04,817
 Should I ask him about it?
 
 224
-00:39:05,070 --> 00:39:07,400
+00:39:05,018 --> 00:39:07,348
 Perhaps later.
 
 225
-00:39:08,380 --> 00:39:09,539
+00:39:08,328 --> 00:39:09,487
 Yes, dear?
 
 226
-00:39:09,739 --> 00:39:11,739
+00:39:09,687 --> 00:39:11,687
 I'm on the last flight tonight to Miami.
 
 227
-00:39:11,849 --> 00:39:14,469
+00:39:11,797 --> 00:39:14,417
 Don't wait up.
 I'll be back in the morning.
 
 228
-00:39:14,679 --> 00:39:17,010
+00:39:14,627 --> 00:39:16,958
 Okay, I understand.
 
 229
-00:39:17,219 --> 00:39:19,980
+00:39:17,167 --> 00:39:19,928
 See you tomorrow. Bye-bye.
 
 230
-00:39:21,519 --> 00:39:25,929
+00:39:21,467 --> 00:39:25,877
 Apparently he's on
 the last flight to Miami...
 
 231
-00:39:26,130 --> 00:39:30,289
+00:39:26,078 --> 00:39:30,237
 ...so you have all night
 to question me.
 
 232
-00:39:33,130 --> 00:39:34,599
+00:39:33,078 --> 00:39:34,547
 In that case...
 
 233
-00:39:34,800 --> 00:39:35,929
+00:39:34,748 --> 00:39:35,877
 ...we're gonna need...
 
 234
-00:39:36,139 --> 00:39:38,500
+00:39:36,087 --> 00:39:38,448
 ...some more champagne.
 
 235
-00:39:44,409 --> 00:39:45,809
+00:39:44,357 --> 00:39:45,757
 Good evening. Room Service.
 
 236
-00:39:46,010 --> 00:39:49,809
+00:39:45,958 --> 00:39:49,757
 Good evening. Can I get a bottle
 of chilled Bollinger Grand Année...
 
 237
-00:39:50,019 --> 00:39:51,269
+00:39:49,967 --> 00:39:51,217
 ...and the beluga caviar?
 
 238
-00:39:51,449 --> 00:39:53,920
+00:39:51,397 --> 00:39:53,868
 - With everything?
 - Yes, with everything.
 
 239
-00:39:54,119 --> 00:39:56,210
+00:39:54,067 --> 00:39:56,158
 - And would that be for two, sir?
 - What?
 
 240
-00:39:56,420 --> 00:39:59,690
+00:39:56,368 --> 00:39:59,638
 - For two?
 - No, for one.
 
 241
-00:40:32,789 --> 00:40:34,519
+00:40:32,737 --> 00:40:34,467
 Wait here.
 
 242
-00:40:38,599 --> 00:40:41,760
+00:40:38,547 --> 00:40:41,708
 There you go. Number 53.
 
 243
-00:40:45,739 --> 00:40:48,110
+00:40:45,687 --> 00:40:48,058
 Dr. von Hagens' Body Worlds
 invites visitors...
 
 244
-00:40:48,309 --> 00:40:51,139
+00:40:48,257 --> 00:40:51,087
 ...to observe the body's various
 locomotive, digestive...
 
 245
-00:40:51,349 --> 00:40:53,110
+00:40:51,297 --> 00:40:53,058
 ...nervous and vascular systems.
 
 246
-00:41:53,710 --> 00:41:57,110
+00:41:53,658 --> 00:41:57,058
 Please may I have your attention,
 ladies and gentlemen?
 
 247
-00:41:58,750 --> 00:42:02,010
+00:41:58,698 --> 00:42:01,958
 I believe it is something very special,
 what we see here.
 
 248
-00:42:02,219 --> 00:42:03,380
+00:42:02,167 --> 00:42:03,328
 This is edutainment.
 
 249
-00:42:29,739 --> 00:42:31,900
+00:42:29,687 --> 00:42:31,848
 ...fixed in dramatic
 and athletic poses...
 
 250
-00:42:32,150 --> 00:42:35,980
+00:42:32,098 --> 00:42:35,928
 ...that reveal the true-to-life spatial
 relationships amongst organs.
 
 251
-00:42:50,130 --> 00:42:51,650
+00:42:50,078 --> 00:42:51,598
 Hello.
 
 252
-00:42:51,869 --> 00:42:53,769
+00:42:51,817 --> 00:42:53,717
 Hello.
 
 253
-00:43:03,440 --> 00:43:05,940
+00:43:03,388 --> 00:43:05,888
 Do not leave your vehicle unattended.
 
 254
-00:43:06,150 --> 00:43:08,710
+00:43:06,098 --> 00:43:08,658
 Welcome to Miami International Airport.
 
 255
-00:43:08,920 --> 00:43:12,039
+00:43:08,868 --> 00:43:11,987
 Curbside parking in front
 of the terminal is restricted...
 
 256
-00:44:47,050 --> 00:44:50,039
+00:44:46,998 --> 00:44:49,987
 - Yes.
 - It's Bond. I need her now.
 
 257
-00:44:50,250 --> 00:44:53,000
+00:44:50,198 --> 00:44:52,948
 I'm afraid she can't be disturbed.
 Can I take a message?
 
 258
-00:44:53,190 --> 00:44:56,576
+00:44:53,138 --> 00:44:56,524
 Listen, you go and find her, tell her
 to call Security at Miami Airport...
 
 259
-00:44:56,659 --> 00:44:59,409
+00:44:56,607 --> 00:44:59,357
 ...because I think a bomb is about
 to go off. Do it now.
 
 260
-00:44:59,690 --> 00:45:02,360
+00:44:59,638 --> 00:45:02,308
 - Sorry, can I put you on hold?
 - I thought you might.
 
 261
-00:45:06,800 --> 00:45:09,530
+00:45:06,748 --> 00:45:09,478
 Bond? What the hell are you up to?
 
 262
-00:45:12,369 --> 00:45:13,369
+00:45:12,317 --> 00:45:13,317
 I'll call you back.
 
 263
-00:45:36,159 --> 00:45:38,500
+00:45:36,107 --> 00:45:38,448
 - The Skyfleet S570 prototype.
 - What about it?
 
 264
-00:45:38,699 --> 00:45:42,449
+00:45:38,647 --> 00:45:42,397
 "The largest airplane in the world will
 be unveiled today at Miami Airport."
 
 265
-00:46:23,340 --> 00:46:24,369
+00:46:23,288 --> 00:46:24,317
 Oh, my God!
 
 266
-00:46:24,579 --> 00:46:26,170
+00:46:24,527 --> 00:46:26,118
 Bond? Bond!
 
 267
-00:46:29,179 --> 00:46:31,280
+00:46:29,127 --> 00:46:31,228
 His target is the Skyfleet prototype.
 
 268
-00:46:31,489 --> 00:46:33,420
+00:46:31,437 --> 00:46:33,368
 It's launching today.
 
 269
-00:46:36,460 --> 00:46:37,619
+00:46:36,408 --> 00:46:37,567
 I gotta go.
 
 270
-00:51:02,960 --> 00:51:04,690
+00:51:02,908 --> 00:51:04,638
 Stop! Stop!
 
 271
-00:52:07,449 --> 00:52:09,449
+00:52:07,397 --> 00:52:09,397
 Get moving!
 Let's go, let's go, let's go!
 
 272
-00:53:42,449 --> 00:53:47,219
+00:53:42,397 --> 00:53:47,167
 The puts expired. I'm sorry,
 I'm not sure yet how much you've lost.
 
 273
-00:53:47,420 --> 00:53:52,820
+00:53:47,368 --> 00:53:52,768
 One hundred and one million,
 two hundred and six thousand dollars.
 
 274
-00:53:59,369 --> 00:54:01,530
+00:53:59,317 --> 00:54:01,478
 Someone talked.
 
 275
-00:54:25,360 --> 00:54:27,377
+00:54:25,308 --> 00:54:27,325
 - You got everything you need?
 - Yeah, I have.
 
 276
-00:54:27,460 --> 00:54:29,519
+00:54:27,408 --> 00:54:29,467
 I'm gonna get a few more photos...
 
 277
-00:54:43,909 --> 00:54:46,940
+00:54:43,857 --> 00:54:46,888
 Quite the body count you're stacking up.
 
 278
-00:54:47,750 --> 00:54:50,596
+00:54:47,698 --> 00:54:50,544
 She was tortured first.
 As you'd already killed her husband...
 
 279
-00:54:50,679 --> 00:54:53,309
+00:54:50,627 --> 00:54:53,257
 ...she must have been
 the only one left to question.
 
 280
-00:54:54,019 --> 00:54:56,237
+00:54:53,967 --> 00:54:56,185
 Did she know anything
 that could compromise you?
 
 281
-00:54:56,320 --> 00:54:57,320
+00:54:56,268 --> 00:54:57,268
 No.
 
 282
-00:54:57,489 --> 00:55:00,949
+00:54:57,437 --> 00:55:00,897
 - Not your name, what you were after?
 - No.
 
 283
-00:55:01,159 --> 00:55:02,717
+00:55:01,107 --> 00:55:02,665
 Dimitrios worked as a middleman.
 
 284
-00:55:02,800 --> 00:55:04,677
+00:55:02,748 --> 00:55:04,625
 Knew where to put his hands on weapons...
 
 285
-00:55:04,760 --> 00:55:06,317
+00:55:04,708 --> 00:55:06,265
 ...and people who could use them.
 
 286
-00:55:06,400 --> 00:55:08,147
+00:55:06,348 --> 00:55:08,095
 He worked with anyone who had money.
 
 287
-00:55:08,230 --> 00:55:11,599
+00:55:08,178 --> 00:55:11,547
 For years he was involved with a man
 we knew as Le Chiffre...
 
 288
-00:55:11,809 --> 00:55:13,826
+00:55:11,757 --> 00:55:13,774
 ...a private banker
 to the world's terrorists.
 
 289
-00:55:13,909 --> 00:55:17,369
+00:55:13,857 --> 00:55:17,317
 He invested their money, gave them
 access to it wherever they wanted.
 
 290
-00:55:17,579 --> 00:55:19,340
+00:55:17,527 --> 00:55:19,288
 Oh, good. You're here.
 
 291
-00:55:19,550 --> 00:55:22,110
+00:55:19,498 --> 00:55:22,058
 Albanian, we believe.
 Chess prodigy.
 
 292
-00:55:22,320 --> 00:55:26,880
+00:55:22,268 --> 00:55:26,828
 A bit of a mathematical genius
 and liked to prove it by playing poker.
 
 293
-00:55:56,150 --> 00:55:57,639
+00:55:56,098 --> 00:55:57,587
 So you can keep an eye on me?
 
 294
-00:55:58,989 --> 00:56:00,480
+00:55:58,937 --> 00:56:00,428
 Yes.
 
 295
-00:56:05,389 --> 00:56:08,519
+00:56:05,337 --> 00:56:08,467
 When they analyzed
 the stock market after 9.11...
 
 296
-00:56:08,730 --> 00:56:12,030
+00:56:08,678 --> 00:56:11,978
 ...the CIA discovered a massive
 shorting of airline stocks.
 
 297
-00:56:12,869 --> 00:56:16,059
+00:56:12,817 --> 00:56:16,007
 When the stocks hit bottom on 9I12,
 somebody made a fortune.
 
 298
-00:56:16,769 --> 00:56:19,456
+00:56:16,717 --> 00:56:19,404
 The same thing happened
 this morning with Skyfleet stock...
 
 299
-00:56:19,539 --> 00:56:20,769
+00:56:19,487 --> 00:56:20,717
 ...or was supposed to.
 
 300
-00:56:20,969 --> 00:56:24,739
+00:56:20,917 --> 00:56:24,687
 With their prototype destroyed, the
 company would be near bankruptcy.
 
 301
-00:56:24,940 --> 00:56:28,969
+00:56:24,888 --> 00:56:28,917
 Instead, somebody lost over
 $ 100 million betting the wrong way.
 
 302
-00:56:29,980 --> 00:56:31,880
+00:56:29,928 --> 00:56:31,828
 You think it's this man Le Chiffre.
 
 303
-00:56:32,090 --> 00:56:35,136
+00:56:32,038 --> 00:56:35,084
 Which would explain how he could
 set up a high-stakes poker game...
 
 304
-00:56:35,219 --> 00:56:36,920
+00:56:35,167 --> 00:56:36,868
 ...at Casino Royale in Montenegro.
 
 305
-00:56:37,119 --> 00:56:41,179
+00:56:37,067 --> 00:56:41,127
 Ten players, $ 10 million buy-in,
 5 million re-buy.
 
 306
-00:56:41,389 --> 00:56:44,159
+00:56:41,337 --> 00:56:44,107
 Winner takes all.
 Potentially 150 million.
 
 307
-00:56:44,360 --> 00:56:46,920
+00:56:44,308 --> 00:56:46,868
 Good.
 Then we'll know where he'll be.
 
 308
-00:56:47,130 --> 00:56:49,217
+00:56:47,078 --> 00:56:49,165
 Do you want a clean kill
 or to send a message?
 
 309
-00:56:49,300 --> 00:56:53,570
+00:56:49,248 --> 00:56:53,518
 We want him alive. Le Chiffre
 doesn't have 100 million to lose.
 
 310
-00:56:53,769 --> 00:56:57,170
+00:56:53,717 --> 00:56:57,118
 Has he been playing the stock market
 with his clients' funds?
 
 311
-00:56:57,380 --> 00:57:00,326
+00:56:57,328 --> 00:57:00,274
 They're not gonna be too happy
 when they find out it's gone.
 
 312
-00:57:00,409 --> 00:57:01,897
+00:57:00,357 --> 00:57:01,845
 We can't let him win this game.
 
 313
-00:57:01,980 --> 00:57:04,210
+00:57:01,928 --> 00:57:04,158
 If he loses, he'll have nowhere to run.
 
 314
-00:57:04,420 --> 00:57:07,320
+00:57:04,368 --> 00:57:07,268
 We'll give him sanctuary
 in return for everything he knows.
 
 315
-00:57:07,449 --> 00:57:09,179
+00:57:07,397 --> 00:57:09,127
 I'm putting you in the game...
 
 316
-00:57:09,389 --> 00:57:12,050
+00:57:09,337 --> 00:57:11,998
 ...replacing someone
 who's playing for a syndicate.
 
 317
-00:57:12,260 --> 00:57:15,820
+00:57:12,208 --> 00:57:15,768
 According to Villiers,
 you're the best player in the Service.
 
 318
-00:57:16,230 --> 00:57:18,059
+00:57:16,178 --> 00:57:18,007
 Trust me, I wish it wasn't the case.
 
 319
-00:57:22,699 --> 00:57:27,039
+00:57:22,647 --> 00:57:26,987
 I would ask you if you could remain
 emotionally detached...
 
 320
-00:57:27,239 --> 00:57:30,400
+00:57:27,187 --> 00:57:30,348
 ...but I don't think
 that's your problem, is it, Bond?
 
 321
-00:57:31,110 --> 00:57:32,940
+00:57:31,058 --> 00:57:32,888
 No.
 
 322
-00:57:35,010 --> 00:57:36,760
+00:57:34,958 --> 00:57:36,708
 Don't worry about keeping in touch.
 
 323
-00:57:37,880 --> 00:57:39,179
+00:57:37,828 --> 00:57:39,127
 We'll know where you are.
 
 324
-00:57:39,389 --> 00:57:40,750
+00:57:39,337 --> 00:57:40,698
 You can stop pretending.
 
 325
-00:57:41,619 --> 00:57:43,869
+00:57:41,567 --> 00:57:43,817
 You knew I wouldn't let this drop,
 didn't you?
 
 326
-00:57:44,820 --> 00:57:47,119
+00:57:44,768 --> 00:57:47,067
 Well, I knew you were you.
 
 327
-00:58:05,679 --> 00:58:07,369
+00:58:05,627 --> 00:58:07,317
 Thank you.
 
 328
-00:58:14,389 --> 00:58:15,750
+00:58:14,337 --> 00:58:15,698
 I'm the money.
 
 329
-00:58:18,059 --> 00:58:19,320
+00:58:18,007 --> 00:58:19,268
 Every penny of it.
 
 330
-00:58:21,760 --> 00:58:24,160
+00:58:21,708 --> 00:58:24,108
 The Treasury has agreed
 to stake you in the game.
 
 331
-00:58:25,230 --> 00:58:26,889
+00:58:25,178 --> 00:58:26,837
 "Vesper."
 
 332
-00:58:27,099 --> 00:58:29,649
+00:58:27,047 --> 00:58:29,597
 Well, I do hope you gave
 your parents hell for that.
 
 333
-00:58:30,369 --> 00:58:31,800
+00:58:30,317 --> 00:58:31,748
 Thank you.
 
 334
-00:58:32,010 --> 00:58:33,670
+00:58:31,958 --> 00:58:33,618
 Your boss must be well-connected.
 
 335
-00:58:33,869 --> 00:58:36,369
+00:58:33,817 --> 00:58:36,317
 I've never seen so much
 go out the door so quickly.
 
 336
-00:58:36,909 --> 00:58:38,539
+00:58:36,857 --> 00:58:38,487
 Or quite so stylishly.
 
 337
-00:58:40,650 --> 00:58:42,079
+00:58:40,598 --> 00:58:42,027
 May I ask you where it is?
 
 338
-00:58:42,280 --> 00:58:44,930
+00:58:42,228 --> 00:58:44,878
 Ten million was wired
 to your account in Montenegro...
 
 339
-00:58:45,019 --> 00:58:49,349
+00:58:44,967 --> 00:58:49,297
 ...with a contingency for 5 more
 if I deem it a prudent investment.
 
 340
-00:58:49,559 --> 00:58:52,706
+00:58:49,507 --> 00:58:52,654
 I suppose you've given some thought
 to the notion that if you lose...
 
 341
-00:58:52,789 --> 00:58:55,690
+00:58:52,737 --> 00:58:55,638
 ...our government
 will have directly financed terrorism.
 
 342
-00:58:59,070 --> 00:59:00,460
+00:58:59,018 --> 00:59:00,408
 What looks good?
 
 343
-00:59:07,710 --> 00:59:10,610
+00:59:07,658 --> 00:59:10,558
 So you're telling me it's a matter
 of probability and odds.
 
 344
-00:59:10,710 --> 00:59:12,797
+00:59:10,658 --> 00:59:12,745
 I was worried there was
 some chance involved.
 
 345
-00:59:12,880 --> 00:59:15,830
+00:59:12,828 --> 00:59:15,778
 Well, only if you assume the player
 with the best hand wins.
 
 346
-00:59:16,079 --> 00:59:18,179
+00:59:16,027 --> 00:59:18,127
 So that would be what you call "bluffing"?
 
 347
-00:59:21,050 --> 00:59:22,849
+00:59:20,998 --> 00:59:22,797
 You've heard the term.
 
 348
-00:59:23,059 --> 00:59:25,677
+00:59:23,007 --> 00:59:25,625
 Then you'll also know that in poker
 you never play your hand.
 
 349
-00:59:25,760 --> 00:59:27,246
+00:59:25,708 --> 00:59:27,194
 You play the man across from you.
 
 350
-00:59:27,329 --> 00:59:29,729
+00:59:27,277 --> 00:59:29,677
 - And you're good at reading people?
 - Yes, I am.
 
 351
-00:59:29,900 --> 00:59:31,717
+00:59:29,848 --> 00:59:31,665
 Which is why I've been able to detect...
 
 352
-00:59:31,800 --> 00:59:33,950
+00:59:31,748 --> 00:59:33,898
 ...an undercurrent
 of sarcasm in your voice.
 
 353
-00:59:34,630 --> 00:59:37,500
+00:59:34,578 --> 00:59:37,448
 I'm now assured our money
 is in good hands.
 
 354
-00:59:38,570 --> 00:59:40,886
+00:59:38,518 --> 00:59:40,834
 You don't think
 this is a very good plan, do you?
 
 355
-00:59:40,969 --> 00:59:42,460
+00:59:40,917 --> 00:59:42,408
 So there is a plan?
 
 356
-00:59:42,679 --> 00:59:45,366
+00:59:42,627 --> 00:59:45,314
 I got the impression
 we were risking millions of dollars...
 
 357
-00:59:45,449 --> 00:59:47,679
+00:59:45,397 --> 00:59:47,627
 ...and hundreds of lives
 on a game of luck.
 
 358
-00:59:47,880 --> 00:59:49,909
+00:59:47,828 --> 00:59:49,857
 What else can you surmise,
 Mr. Bond?
 
 359
-00:59:50,119 --> 00:59:52,280
+00:59:50,067 --> 00:59:52,228
 About you, Miss Lynd?
 
 360
-00:59:52,489 --> 00:59:54,079
+00:59:52,437 --> 00:59:54,027
 Well, your beauty's a problem.
 
 361
-00:59:54,550 --> 00:59:56,550
+00:59:54,498 --> 00:59:56,498
 You worry you won't be taken seriously.
 
 362
-00:59:56,760 --> 00:59:59,750
+00:59:56,708 --> 00:59:59,698
 Which one can say of any
 attractive woman with half a brain.
 
 363
-00:59:59,960 --> 01:00:01,647
+00:59:59,908 --> 01:00:01,595
 True, but this one overcompensates...
 
 364
-01:00:01,730 --> 01:00:03,677
+01:00:01,678 --> 01:00:03,625
 ...by wearing
 slightly masculine clothing...
 
 365
-01:00:03,760 --> 01:00:06,246
+01:00:03,708 --> 01:00:06,194
 ...being more aggressive
 than her female colleagues...
 
 366
-01:00:06,329 --> 01:00:08,800
+01:00:06,277 --> 01:00:08,748
 ...which gives her a somewhat
 prickly demeanor...
 
 367
-01:00:09,000 --> 01:00:12,456
+01:00:08,948 --> 01:00:12,404
 ...and ironically enough, makes it
 less likely for her to be accepted...
 
 368
-01:00:12,539 --> 01:00:14,730
+01:00:12,487 --> 01:00:14,678
 ...and promoted
 by her male superiors...
 
 369
-01:00:14,940 --> 01:00:17,710
+01:00:14,888 --> 01:00:17,658
 ...who mistake her insecurities
 for arrogance.
 
 370
-01:00:18,210 --> 01:00:22,239
+01:00:18,158 --> 01:00:22,187
 Now, I'd have normally
 gone with only child...
 
 371
-01:00:22,449 --> 01:00:25,667
+01:00:22,397 --> 01:00:25,615
 ...but, you see, by the way you ignored
 the quip about your parents...
 
 372
-01:00:25,750 --> 01:00:28,409
+01:00:25,698 --> 01:00:28,357
 ...I'm gonna have to go with orphan.
 
 373
-01:00:31,389 --> 01:00:33,320
+01:00:31,337 --> 01:00:33,268
 All right.
 
 374
-01:00:34,190 --> 01:00:36,877
+01:00:34,138 --> 01:00:36,825
 By the cut of your suit,
 you went to Oxford or wherever...
 
 375
-01:00:36,960 --> 01:00:39,447
+01:00:36,908 --> 01:00:39,395
 ...and actually think
 human beings dress like that.
 
 376
-01:00:39,530 --> 01:00:41,429
+01:00:39,478 --> 01:00:41,377
 But you wear it with such disdain...
 
 377
-01:00:41,630 --> 01:00:43,656
+01:00:41,578 --> 01:00:43,604
 ...my guess is
 you didn't come from money...
 
 378
-01:00:43,739 --> 01:00:46,300
+01:00:43,687 --> 01:00:46,248
 ...and your school friends
 never let you forget it.
 
 379
-01:00:46,510 --> 01:00:48,556
+01:00:46,458 --> 01:00:48,504
 Which means you were
 at that school by the grace...
 
 380
-01:00:48,639 --> 01:00:51,627
+01:00:48,587 --> 01:00:51,575
 ...of someone else's charity,
 hence the chip on your shoulder.
 
 381
-01:00:51,710 --> 01:00:54,326
+01:00:51,658 --> 01:00:54,274
 And since your first thought about me
 ran to orphan...
 
 382
-01:00:54,409 --> 01:00:56,400
+01:00:54,357 --> 01:00:56,348
 ...that's what I'd say you are.
 
 383
-01:01:00,349 --> 01:01:02,340
+01:01:00,297 --> 01:01:02,288
 Oh, you are.
 
 384
-01:01:02,820 --> 01:01:04,650
+01:01:02,768 --> 01:01:04,598
 I like this poker thing.
 
 385
-01:01:04,860 --> 01:01:06,619
+01:01:04,808 --> 01:01:06,567
 And that makes perfect sense...
 
 386
-01:01:06,829 --> 01:01:09,230
+01:01:06,777 --> 01:01:09,178
 ...since MI6 looks
 for maladjusted young men...
 
 387
-01:01:09,429 --> 01:01:11,817
+01:01:09,377 --> 01:01:11,765
 ...that give little thought
 to sacrificing others...
 
 388
-01:01:11,900 --> 01:01:14,090
+01:01:11,848 --> 01:01:14,038
 ...in order to protect
 Queen and country.
 
 389
-01:01:14,300 --> 01:01:15,389
+01:01:14,248 --> 01:01:15,337
 You know...
 
 390
-01:01:15,599 --> 01:01:19,539
+01:01:15,547 --> 01:01:19,487
 ...former SAS types with easy smiles
 and expensive watches.
 
 391
-01:01:20,039 --> 01:01:22,409
+01:01:19,987 --> 01:01:22,357
 - Rolex?
 - Omega.
 
 392
-01:01:22,610 --> 01:01:24,440
+01:01:22,558 --> 01:01:24,388
 Beautiful.
 
 393
-01:01:24,940 --> 01:01:26,610
+01:01:24,888 --> 01:01:26,558
 Now, having just met you...
 
 394
-01:01:26,809 --> 01:01:29,766
+01:01:26,757 --> 01:01:29,714
 ...I wouldn't go as far as calling you
 a cold-hearted bastard.
 
 395
-01:01:29,849 --> 01:01:31,210
+01:01:29,797 --> 01:01:31,158
 No, of course not.
 
 396
-01:01:31,420 --> 01:01:33,237
+01:01:31,368 --> 01:01:33,185
 But it wouldn't be a stretch to imagine.
 
 397
-01:01:33,320 --> 01:01:35,520
+01:01:33,268 --> 01:01:35,468
 You think of women
 as disposable pleasures...
 
 398
-01:01:35,690 --> 01:01:37,780
+01:01:35,638 --> 01:01:37,728
 ...rather than meaningful pursuits.
 
 399
-01:01:39,260 --> 01:01:41,389
+01:01:39,208 --> 01:01:41,337
 So as charming as you are,
 Mr. Bond...
 
 400
-01:01:41,590 --> 01:01:44,147
+01:01:41,538 --> 01:01:44,095
 ...I will be keeping my eye
 on our government's money...
 
 401
-01:01:44,230 --> 01:01:46,199
+01:01:44,178 --> 01:01:46,147
 ...and off your perfectly formed arse.
 
 402
-01:01:46,670 --> 01:01:48,190
+01:01:46,618 --> 01:01:48,138
 You noticed?
 
 403
-01:01:48,400 --> 01:01:50,389
+01:01:48,348 --> 01:01:50,337
 Even accountants have imagination.
 
 404
-01:01:50,599 --> 01:01:51,929
+01:01:50,547 --> 01:01:51,877
 How was your lamb?
 
 405
-01:01:52,340 --> 01:01:53,900
+01:01:52,288 --> 01:01:53,848
 Skewered.
 
 406
-01:01:54,110 --> 01:01:55,730
+01:01:54,058 --> 01:01:55,678
 One sympathizes.
 
 407
-01:01:57,579 --> 01:01:59,070
+01:01:57,527 --> 01:01:59,018
 Good evening, Mr. Bond.
 
 408
-01:01:59,280 --> 01:02:01,610
+01:01:59,228 --> 01:02:01,558
 Good evening, Miss Lynd.
 
 409
-01:02:17,130 --> 01:02:20,099
+01:02:17,078 --> 01:02:20,047
 - Hotel Splendid, sir?
 - That's right.
 
 410
-01:02:22,369 --> 01:02:24,599
+01:02:22,317 --> 01:02:24,547
 - Thank you, sir.
 - Thank you.
 
 411
-01:02:38,119 --> 01:02:40,920
+01:02:38,067 --> 01:02:40,868
 It's just last-minute details.
 
 412
-01:02:42,619 --> 01:02:44,369
+01:02:42,567 --> 01:02:44,317
 Apparently we're very much in love.
 
 413
-01:02:45,090 --> 01:02:48,177
+01:02:45,038 --> 01:02:48,125
 Do you usually leave it to porters
 to tell you this sort of thing?
 
 414
-01:02:48,260 --> 01:02:50,960
+01:02:48,208 --> 01:02:50,908
 Only when the romance
 has been necessarily brief.
 
 415
-01:02:51,360 --> 01:02:54,329
+01:02:51,308 --> 01:02:54,277
 I'm Mr. Arlington Beech,
 professional gambler...
 
 416
-01:02:54,530 --> 01:02:56,217
+01:02:54,478 --> 01:02:56,165
 ...and you're
 Miss Stephanie Broadchest...
 
 417
-01:02:56,300 --> 01:02:58,616
+01:02:56,248 --> 01:02:58,564
 - I am not.
 - You're gonna have to trust me on this.
 
 418
-01:02:58,699 --> 01:03:00,670
+01:02:58,647 --> 01:03:00,618
 Oh, no, I don't.
 
 419
-01:03:00,869 --> 01:03:02,869
+01:03:00,817 --> 01:03:02,817
 We've been involved for quite a while...
 
 420
-01:03:03,369 --> 01:03:05,130
+01:03:03,317 --> 01:03:05,078
 ...hence the shared suite.
 
 421
-01:03:05,340 --> 01:03:07,710
+01:03:05,288 --> 01:03:07,658
 But my family is strict Roman Catholic...
 
 422
-01:03:07,909 --> 01:03:10,757
+01:03:07,857 --> 01:03:10,705
 ...so for appearances' sake,
 it'll be a two-bedroom suite.
 
 423
-01:03:10,840 --> 01:03:14,110
+01:03:10,788 --> 01:03:14,058
 I do hate it when religion
 comes between us.
 
 424
-01:03:14,409 --> 01:03:16,809
+01:03:14,357 --> 01:03:16,757
 Religion and a securely locked door.
 
 425
-01:03:17,019 --> 01:03:19,107
+01:03:16,967 --> 01:03:19,055
 Am I going to have a problem
 with you, Bond?
 
 426
-01:03:19,190 --> 01:03:21,949
+01:03:19,138 --> 01:03:21,897
 No, don't worry. You're not my type.
 
 427
-01:03:22,190 --> 01:03:23,280
+01:03:22,138 --> 01:03:23,228
 Smart?
 
 428
-01:03:23,889 --> 01:03:25,590
+01:03:23,837 --> 01:03:25,538
 Single.
 
 429
-01:03:44,809 --> 01:03:46,927
+01:03:44,757 --> 01:03:46,875
 Welcome to the Hotel Splendid.
 Your name, sir?
 
 430
-01:03:47,010 --> 01:03:49,880
+01:03:46,958 --> 01:03:49,828
 James Bond. You'll find
 the reservation under Beech.
 
 431
-01:03:50,079 --> 01:03:52,809
+01:03:50,027 --> 01:03:52,757
 - Welcome, Mr. Bond.
 - You sign that, dear.
 
 432
-01:03:53,449 --> 01:03:55,789
+01:03:53,397 --> 01:03:55,737
 You represent the Treasury.
 
 433
-01:04:00,130 --> 01:04:02,789
+01:04:00,078 --> 01:04:02,737
 Thank you. Enjoy your stay.
 
 434
-01:04:03,000 --> 01:04:04,590
+01:04:02,948 --> 01:04:04,538
 I will. Thank you.
 
 435
-01:04:07,599 --> 01:04:08,760
+01:04:07,547 --> 01:04:08,708
 Very funny.
 
 436
-01:04:08,969 --> 01:04:11,056
+01:04:08,917 --> 01:04:11,004
 Look, if Le Chiffre
 is that well-connected...
 
 437
-01:04:11,139 --> 01:04:13,326
+01:04:11,087 --> 01:04:13,274
 ...he knows who I am
 and where the money's from.
 
 438
-01:04:13,409 --> 01:04:15,639
+01:04:13,357 --> 01:04:15,587
 Which means he's decided
 to play me anyway.
 
 439
-01:04:15,840 --> 01:04:18,326
+01:04:15,788 --> 01:04:18,274
 So he's either desperate
 or he's overly confident...
 
 440
-01:04:18,409 --> 01:04:20,826
+01:04:18,357 --> 01:04:20,774
 ...but either way, that tells me
 something about him.
 
 441
-01:04:20,909 --> 01:04:23,440
+01:04:20,857 --> 01:04:23,388
 And all he gets in return
 is a name he already has.
 
 442
-01:04:23,750 --> 01:04:25,507
+01:04:23,698 --> 01:04:25,455
 And now he knows something about you.
 
 443
-01:04:25,590 --> 01:04:27,780
+01:04:25,538 --> 01:04:27,728
 He knows you're reckless.
 
 444
-01:04:28,389 --> 01:04:30,219
+01:04:28,337 --> 01:04:30,167
 Take the next one.
 
 445
-01:04:30,420 --> 01:04:33,289
+01:04:30,368 --> 01:04:33,237
 There isn't enough room for me
 and your ego.
 
 446
-01:04:33,690 --> 01:04:35,250
+01:04:33,638 --> 01:04:35,198
 Mr. Bond?
 
 447
-01:04:35,460 --> 01:04:37,789
+01:04:35,408 --> 01:04:37,737
 - It was left for you.
 - Thank you.
 
 448
-01:05:08,929 --> 01:05:10,449
+01:05:08,877 --> 01:05:10,397
 I love you too, M.
 
 449
-01:05:49,639 --> 01:05:54,840
+01:05:49,587 --> 01:05:54,788
 My name is Mathis. Rene Mathis.
 I'm your contact here.
 
 450
-01:05:58,349 --> 01:06:00,027
+01:05:58,297 --> 01:05:59,975
 Does he know we've been watching him?
 
 451
-01:06:00,110 --> 01:06:02,780
+01:06:00,058 --> 01:06:02,728
 Le Chiffre? I don't think so.
 
 452
-01:06:02,980 --> 01:06:07,320
+01:06:02,928 --> 01:06:07,268
 Probably because there's no "we."
 Just me.
 
 453
-01:06:07,949 --> 01:06:10,036
+01:06:07,897 --> 01:06:09,984
 I'm afraid if you get into trouble here...
 
 454
-01:06:10,119 --> 01:06:13,849
+01:06:10,067 --> 01:06:13,797
 ...the cavalry won't be
 coming over the nearest hill.
 
 455
-01:06:15,400 --> 01:06:17,190
+01:06:15,348 --> 01:06:17,138
 Le Chiffre arrived yesterday...
 
 456
-01:06:17,630 --> 01:06:21,159
+01:06:17,578 --> 01:06:21,107
 ...and spent the time reestablishing
 old relationships.
 
 457
-01:06:21,769 --> 01:06:24,699
+01:06:21,717 --> 01:06:24,647
 The chief of police and he
 are now quite close.
 
 458
-01:06:24,909 --> 01:06:26,809
+01:06:24,857 --> 01:06:26,757
 That's him, with the mustache.
 
 459
-01:06:27,010 --> 01:06:28,570
+01:06:26,958 --> 01:06:28,518
 Over my left shoulder.
 
 460
-01:06:29,639 --> 01:06:31,840
+01:06:29,587 --> 01:06:31,788
 Well, that could make life
 quite difficult.
 
 461
-01:06:32,050 --> 01:06:34,010
+01:06:31,998 --> 01:06:33,958
 Yeah, and quite possibly shorter.
 
 462
-01:06:34,210 --> 01:06:36,840
+01:06:34,158 --> 01:06:36,788
 He's not a very subtle man.
 
 463
-01:06:37,050 --> 01:06:40,210
+01:06:36,998 --> 01:06:40,158
 I thought about trying to buy
 his services, but we frankly...
 
 464
-01:06:40,420 --> 01:06:43,619
+01:06:40,368 --> 01:06:43,567
 ...couldn't afford to outbid Le Chiffre.
 
 465
-01:06:51,730 --> 01:06:52,889
+01:06:51,678 --> 01:06:52,837
 I hate to say it...
 
 466
-01:06:53,099 --> 01:06:57,059
+01:06:53,047 --> 01:06:57,007
 ...but the accountants seem
 to be running MI6 these days.
 
 467
-01:06:58,139 --> 01:07:01,340
+01:06:58,087 --> 01:07:01,288
 Oh, not that I have anything
 against accountants.
 
 468
-01:07:01,539 --> 01:07:03,809
+01:07:01,487 --> 01:07:03,757
 Many of them are lovely people.
 
 469
-01:07:05,349 --> 01:07:08,440
+01:07:05,297 --> 01:07:08,388
 So I decided that it was cheaper
 to supply his deputy...
 
 470
-01:07:08,650 --> 01:07:12,239
+01:07:08,598 --> 01:07:12,187
 ...with evidence
 that we were bribing the chief.
 
 471
-01:07:12,449 --> 01:07:16,789
+01:07:12,397 --> 01:07:16,737
 It's amazing what you can do with
 Photoshop these days, isn't it?
 
 472
-01:07:19,730 --> 01:07:22,349
+01:07:19,678 --> 01:07:22,297
 I think your odds are improving,
 Mr. Bond.
 
 473
-01:07:27,829 --> 01:07:29,199
+01:07:27,777 --> 01:07:29,147
 Yes?
 
 474
-01:07:29,869 --> 01:07:31,530
+01:07:29,817 --> 01:07:31,478
 For you.
 
 475
-01:07:32,710 --> 01:07:35,199
+01:07:32,658 --> 01:07:35,147
 Something you expect me to wear?
 
 476
-01:07:37,679 --> 01:07:39,079
+01:07:37,627 --> 01:07:39,027
 I need you looking fabulous.
 
 477
-01:07:39,210 --> 01:07:41,636
+01:07:39,158 --> 01:07:41,584
 So when you walk up behind me
 and kiss me on the neck...
 
 478
-01:07:41,719 --> 01:07:44,197
+01:07:41,667 --> 01:07:44,145
 ...the players will be thinking
 about your neckline...
 
 479
-01:07:44,280 --> 01:07:46,010
+01:07:44,228 --> 01:07:45,958
 ...and not about their cards.
 
 480
-01:07:46,219 --> 01:07:48,619
+01:07:46,167 --> 01:07:48,567
 Do you think you can do that for me?
 
 481
-01:07:48,820 --> 01:07:50,760
+01:07:48,768 --> 01:07:50,708
 I'll do my best.
 
 482
-01:07:51,829 --> 01:07:53,760
+01:07:51,777 --> 01:07:53,708
 Thank you.
 
 483
-01:08:05,769 --> 01:08:07,000
+01:08:05,717 --> 01:08:06,948
 I have a dinner jacket.
 
 484
-01:08:08,210 --> 01:08:10,539
+01:08:08,158 --> 01:08:10,487
 There are dinner jackets
 and dinner jackets.
 
 485
-01:08:10,739 --> 01:08:11,900
+01:08:10,687 --> 01:08:11,848
 This is the latter.
 
 486
-01:08:12,110 --> 01:08:15,309
+01:08:12,058 --> 01:08:15,257
 And I need you looking like a man
 who belongs at that table.
 
 487
-01:08:15,750 --> 01:08:17,380
+01:08:15,698 --> 01:08:17,328
 How...?
 
 488
-01:08:18,189 --> 01:08:19,649
+01:08:18,137 --> 01:08:19,597
 It's tailored.
 
 489
-01:08:19,850 --> 01:08:22,409
+01:08:19,798 --> 01:08:22,357
 I sized you up the moment we met.
 
 490
-01:09:16,109 --> 01:09:18,739
+01:09:16,057 --> 01:09:18,687
 - Good evening, sir.
 - Good evening.
 
 491
-01:09:20,680 --> 01:09:22,340
+01:09:20,628 --> 01:09:22,288
 Thank you.
 
 492
-01:09:33,130 --> 01:09:35,250
+01:09:33,078 --> 01:09:35,198
 And you must be
 Mr. Bliss' replacement.
 
 493
-01:09:35,460 --> 01:09:37,560
+01:09:35,408 --> 01:09:37,508
 Welcome, Mr. Beech.
 
 494
-01:09:38,770 --> 01:09:41,560
+01:09:38,718 --> 01:09:41,508
 Or is that Bond?
 I'm a little confused.
 
 495
-01:09:41,770 --> 01:09:44,199
+01:09:41,718 --> 01:09:44,147
 Well, we wouldn't want that, would we?
 
 496
-01:09:53,649 --> 01:09:55,640
+01:09:53,597 --> 01:09:55,588
 Ladies and gentlemen, welcome.
 
 497
-01:09:55,850 --> 01:09:58,439
+01:09:55,798 --> 01:09:58,387
 As you know, the game is no-limit
 hold 'em poker.
 
 498
-01:09:58,649 --> 01:10:00,590
+01:09:58,597 --> 01:10:00,538
 Five communal cards, two in the hole.
 
 499
-01:10:01,050 --> 01:10:03,937
+01:10:00,998 --> 01:10:03,885
 Monsieur Mendel here represents
 the Basel Bank, Switzerland...
 
 500
-01:10:04,020 --> 01:10:05,250
+01:10:03,968 --> 01:10:05,198
 ...holding the stakes.
 
 501
-01:10:07,560 --> 01:10:10,090
+01:10:07,508 --> 01:10:10,038
 You have each deposited
 $ 10 million buy-in.
 
 502
-01:10:10,300 --> 01:10:13,316
+01:10:10,248 --> 01:10:13,264
 A further buy-in of 5 million
 can be made by electronic transfer.
 
 503
-01:10:13,399 --> 01:10:15,616
+01:10:13,347 --> 01:10:15,564
 The money will remain in escrow
 until I return...
 
 504
-01:10:15,699 --> 01:10:18,557
+01:10:15,647 --> 01:10:18,505
 ...and the winner of the contest
 enters his or her password...
 
 505
-01:10:18,640 --> 01:10:19,840
+01:10:18,588 --> 01:10:19,788
 ...into the encryptor...
 
 506
-01:10:20,010 --> 01:10:21,856
+01:10:19,958 --> 01:10:21,804
 ...whereupon the entire sum
 will be wired...
 
 507
-01:10:21,939 --> 01:10:24,339
+01:10:21,887 --> 01:10:24,287
 ...to any bank account
 in the world you nominate.
 
 508
-01:10:24,640 --> 01:10:26,369
+01:10:24,588 --> 01:10:26,317
 Mr. Bond?
 
 509
-01:10:26,810 --> 01:10:28,097
+01:10:26,758 --> 01:10:28,045
 We proceed alphabetically.
 
 510
-01:10:28,180 --> 01:10:30,930
+01:10:28,128 --> 01:10:30,878
 Please be so kind as to enter
 a password of your choice.
 
 511
-01:10:39,029 --> 01:10:40,189
+01:10:38,977 --> 01:10:40,137
 Six letters or more.
 
 512
-01:10:53,270 --> 01:10:55,939
+01:10:53,218 --> 01:10:55,887
 High card for dealer position.
 
 513
-01:11:02,979 --> 01:11:04,279
+01:11:02,927 --> 01:11:04,227
 It's Signor Gallardo.
 
 514
-01:11:04,479 --> 01:11:07,510
+01:11:04,427 --> 01:11:07,458
 Mr. Kaminofsky is
 the small blind, $5000...
 
 515
-01:11:07,720 --> 01:11:11,180
+01:11:07,668 --> 01:11:11,128
 ...and Mr. Fukutu, the big blind,
 $ 10,000.
 
 516
-01:11:13,289 --> 01:11:15,319
+01:11:13,237 --> 01:11:15,267
 Well, enjoy the game.
 
 517
-01:11:39,189 --> 01:11:40,279
+01:11:39,137 --> 01:11:40,227
 Four players.
 
 518
-01:11:42,890 --> 01:11:44,220
+01:11:42,838 --> 01:11:44,168
 It's your bet.
 
 519
-01:11:45,760 --> 01:11:47,229
+01:11:45,708 --> 01:11:47,177
 Check.
 
 520
-01:11:47,430 --> 01:11:49,220
+01:11:47,378 --> 01:11:49,168
 Check.
 
 521
-01:11:53,529 --> 01:11:55,590
+01:11:53,477 --> 01:11:55,538
 Bet. Fifty thousand.
 
 522
-01:12:08,819 --> 01:12:10,079
+01:12:08,767 --> 01:12:10,027
 Call.
 
 523
-01:12:13,350 --> 01:12:14,619
+01:12:13,298 --> 01:12:14,567
 Fold.
 
 524
-01:12:16,819 --> 01:12:19,220
+01:12:16,767 --> 01:12:19,168
 Fold. Heads up.
 
 525
-01:12:23,529 --> 01:12:24,960
+01:12:23,477 --> 01:12:24,908
 Monsieur Le Chiffre.
 
 526
-01:12:36,479 --> 01:12:39,039
+01:12:36,427 --> 01:12:38,987
 Bet. One hundred thousand.
 
 527
-01:12:42,149 --> 01:12:45,140
+01:12:42,097 --> 01:12:45,088
 Weren't you supposed to enter
 so the others could see you?
 
 528
-01:12:45,350 --> 01:12:48,380
+01:12:45,298 --> 01:12:48,328
 Was I? Forgive me.
 
 529
-01:12:48,920 --> 01:12:51,119
+01:12:48,868 --> 01:12:51,067
 Good luck, darling.
 
 530
-01:12:54,930 --> 01:12:57,329
+01:12:54,878 --> 01:12:57,277
 It's up to you, Monsieur Bond.
 
 531
-01:12:59,300 --> 01:13:00,489
+01:12:59,248 --> 01:13:00,437
 Monsieur Bond?
 
 532
-01:13:00,699 --> 01:13:03,359
+01:13:00,647 --> 01:13:03,307
 Oh, I'm sorry. What was the bet?
 A hundred thousand?
 
 533
-01:13:04,170 --> 01:13:05,899
+01:13:04,118 --> 01:13:05,847
 Call.
 
 534
-01:13:11,039 --> 01:13:12,199
+01:13:10,987 --> 01:13:12,147
 Hello.
 
 535
-01:13:12,409 --> 01:13:16,010
+01:13:12,357 --> 01:13:15,958
 I suppose I don't have to tell you
 how beautiful you look.
 
 536
-01:13:16,220 --> 01:13:19,340
+01:13:16,168 --> 01:13:19,288
 Half the people at that table
 are still watching you.
 
 537
-01:13:19,550 --> 01:13:20,550
+01:13:19,498 --> 01:13:20,498
 Champagne.
 
 538
-01:13:24,220 --> 01:13:26,090
+01:13:24,168 --> 01:13:26,038
 Monsieur Le Chiffre.
 
 539
-01:13:37,170 --> 01:13:38,470
+01:13:37,118 --> 01:13:38,418
 Bet. Two hundred thousand.
 
 540
-01:13:44,880 --> 01:13:48,640
+01:13:44,828 --> 01:13:48,588
 Monsieur, you have been called.
 Showdown, please.
 
 541
-01:13:50,319 --> 01:13:53,479
+01:13:50,267 --> 01:13:53,427
 A full house to Monsieur Le Chiffre.
 Deuces full of nines.
 
 542
-01:13:53,689 --> 01:13:55,479
+01:13:53,637 --> 01:13:55,427
 Mr. Bond?
 
 543
-01:13:58,390 --> 01:13:59,720
+01:13:58,338 --> 01:13:59,668
 Fold.
 
 544
-01:14:07,100 --> 01:14:09,430
+01:14:07,048 --> 01:14:09,378
 Send the barman over, please.
 
 545
-01:14:17,579 --> 01:14:20,380
+01:14:17,527 --> 01:14:20,328
 A dry martini. Wait.
 
 546
-01:14:20,579 --> 01:14:22,396
+01:14:20,527 --> 01:14:22,344
 Three measures Gordon's, one of vodka...
 
 547
-01:14:22,479 --> 01:14:24,437
+01:14:22,427 --> 01:14:24,385
 ...half of Kina Lillet,
 shake it over ice...
 
 548
-01:14:24,520 --> 01:14:27,350
+01:14:24,468 --> 01:14:27,298
 - ...then add a thin slice of lemon peel.
 - Yes, sir.
 
 549
-01:14:27,550 --> 01:14:30,420
+01:14:27,498 --> 01:14:30,368
 - You know, I'll have one of those.
 - So will I.
 
 550
-01:14:31,390 --> 01:14:32,619
+01:14:31,338 --> 01:14:32,567
 Certainly.
 
 551
-01:14:33,560 --> 01:14:37,460
+01:14:33,508 --> 01:14:37,408
 My friend, bring me one as well.
 Keep the fruit.
 
 552
-01:14:38,329 --> 01:14:39,659
+01:14:38,277 --> 01:14:39,607
 That's it?
 
 553
-01:14:40,970 --> 01:14:42,560
+01:14:40,918 --> 01:14:42,508
 Anyone want to play poker now?
 
 554
-01:14:42,770 --> 01:14:43,930
+01:14:42,718 --> 01:14:43,878
 Someone's in a hurry.
 
 555
-01:14:52,949 --> 01:14:54,880
+01:14:52,897 --> 01:14:54,828
 Would you excuse me?
 
 556
-01:15:08,390 --> 01:15:09,729
+01:15:08,338 --> 01:15:09,677
 You taste nice.
 
 557
-01:15:09,930 --> 01:15:12,859
+01:15:09,878 --> 01:15:12,807
 - I thought we dispensed with covers.
 - No.
 
 558
-01:15:13,069 --> 01:15:16,760
+01:15:13,017 --> 01:15:16,708
 We dispensed with one that was
 of no use and created another that is.
 
 559
-01:15:16,970 --> 01:15:18,489
+01:15:16,918 --> 01:15:18,437
 - Is he watching?
 - Yes.
 
 560
-01:15:18,710 --> 01:15:19,760
+01:15:18,658 --> 01:15:19,708
 Good.
 
 561
-01:15:19,970 --> 01:15:22,856
+01:15:19,918 --> 01:15:22,804
 This is me in character pissed off
 because you're losing so fast...
 
 562
-01:15:22,939 --> 01:15:24,710
+01:15:22,887 --> 01:15:24,658
 ...we won't be here past midnight.
 
 563
-01:15:24,909 --> 01:15:27,880
+01:15:24,857 --> 01:15:27,828
 Oddly, my character's feelings
 mirror my own.
 
 564
-01:15:28,510 --> 01:15:30,069
+01:15:28,458 --> 01:15:30,017
 Check.
 
 565
-01:15:30,720 --> 01:15:32,667
+01:15:30,668 --> 01:15:32,615
 - You know, that's not half bad.
 - Up to you.
 
 566
-01:15:32,750 --> 01:15:34,850
+01:15:32,698 --> 01:15:34,798
 I'm gonna have to think up
 a name for that.
 
 567
-01:15:36,189 --> 01:15:38,750
+01:15:36,137 --> 01:15:38,698
 It was worth it to discover his tell.
 
 568
-01:15:39,090 --> 01:15:40,350
+01:15:39,038 --> 01:15:40,298
 What do you mean?
 
 569
-01:15:40,729 --> 01:15:42,779
+01:15:40,677 --> 01:15:42,727
 The twitch he has to hide when he bluffs.
 
 570
-01:15:42,960 --> 01:15:47,090
+01:15:42,908 --> 01:15:47,038
 - Bluffs? He had the best hand.
 - Which he got on the last card.
 
 571
-01:15:47,300 --> 01:15:49,616
+01:15:47,248 --> 01:15:49,564
 The odds against were 23-to-1,
 and he'd know that.
 
 572
-01:15:49,699 --> 01:15:51,786
+01:15:49,647 --> 01:15:51,734
 When he did his first raise
 he had nothing.
 
 573
-01:15:51,869 --> 01:15:53,399
+01:15:51,817 --> 01:15:53,347
 Winning was blind luck.
 
 574
-01:15:53,609 --> 01:15:55,439
+01:15:53,557 --> 01:15:55,387
 - Did you get the bug?
 - Yes.
 
 575
-01:15:55,640 --> 01:15:57,510
+01:15:55,588 --> 01:15:57,458
 Bet. One hundred thousand.
 
 576
-01:15:57,710 --> 01:15:59,229
+01:15:57,658 --> 01:15:59,177
 Thank you.
 
 577
-01:16:01,050 --> 01:16:02,597
+01:16:00,998 --> 01:16:02,545
 It's your play, Monsieur Fukutu.
 
 578
-01:16:02,680 --> 01:16:05,710
+01:16:02,628 --> 01:16:05,658
 Maybe he can actually pull this off.
 
 579
-01:16:06,550 --> 01:16:07,989
+01:16:06,498 --> 01:16:07,937
 Call.
 
 580
-01:16:09,590 --> 01:16:11,560
+01:16:09,538 --> 01:16:11,508
 Monsieur Le Chiffre.
 
 581
-01:16:14,090 --> 01:16:16,619
+01:16:14,038 --> 01:16:16,567
 Ladies and gentlemen,
 Mesdames, Messieurs...
 
 582
-01:16:16,829 --> 01:16:18,717
+01:16:16,777 --> 01:16:18,665
 ...we've now been
 playing for four hours.
 
 583
-01:16:18,800 --> 01:16:23,260
+01:16:18,748 --> 01:16:23,208
 It's time for a short break.
 We will resume play in one hour.
 
 584
-01:16:52,100 --> 01:16:57,869
+01:16:52,048 --> 01:16:57,817
 Well, I think I'll report
 on the evening's frivolities.
 
 585
-01:16:59,470 --> 01:17:01,340
+01:16:59,418 --> 01:17:01,288
 So?
 
 586
-01:17:01,539 --> 01:17:03,670
+01:17:01,487 --> 01:17:03,618
 You want to do what to me?
 
 587
-01:17:03,880 --> 01:17:05,210
+01:17:03,828 --> 01:17:05,158
 You've lost me completely.
 
 588
-01:17:05,409 --> 01:17:08,609
+01:17:05,357 --> 01:17:08,557
 You just said you can't wait
 to get me back to the room. Come on.
 
 589
-01:17:32,310 --> 01:17:35,930
+01:17:32,258 --> 01:17:35,878
 So, what's so damn important?
 
 590
-01:17:38,380 --> 01:17:39,970
+01:17:38,328 --> 01:17:39,918
 I'm sorry.
 
 591
-01:17:42,850 --> 01:17:44,409
+01:17:42,798 --> 01:17:44,357
 Where is my money?
 
 592
-01:17:48,960 --> 01:17:50,276
+01:17:48,908 --> 01:17:50,224
 - Good evening.
 - Good evening.
 
 593
-01:17:50,359 --> 01:17:52,590
+01:17:50,307 --> 01:17:52,538
 You're holding a parcel for me.
 
 594
-01:17:57,229 --> 01:17:58,890
+01:17:57,177 --> 01:17:58,838
 Thank you.
 
 595
-01:18:00,170 --> 01:18:04,329
+01:18:00,118 --> 01:18:04,277
 Do you think you can lose that kind
 of money and no one would notice?
 
 596
-01:18:04,869 --> 01:18:06,670
+01:18:04,817 --> 01:18:06,618
 Your money is safe.
 
 597
-01:18:08,470 --> 01:18:10,199
+01:18:08,418 --> 01:18:10,147
 Open that.
 
 598
-01:18:26,229 --> 01:18:28,279
+01:18:26,177 --> 01:18:28,227
 You'll have it tomorrow.
 
 599
-01:18:29,229 --> 01:18:30,529
+01:18:29,177 --> 01:18:30,477
 All of it.
 
 600
-01:18:44,010 --> 01:18:47,970
+01:18:43,958 --> 01:18:47,918
 I would take a hand for this betrayal,
 but you need it to play cards.
 
 601
-01:18:52,520 --> 01:18:54,250
+01:18:52,468 --> 01:18:54,198
 Hold out your arm.
 
 602
-01:18:55,520 --> 01:18:57,319
+01:18:55,468 --> 01:18:57,267
 Hold out your arm, my beauty...
 
 603
-01:18:57,960 --> 01:18:59,550
+01:18:57,908 --> 01:18:59,498
 ...or I will take your head.
 
 604
-01:19:09,470 --> 01:19:12,399
+01:19:09,418 --> 01:19:12,347
 Go to the room. Wait for me there.
 
 605
-01:19:25,750 --> 01:19:26,750
+01:19:25,698 --> 01:19:26,698
 Stairs.
 
 606
-01:19:31,220 --> 01:19:33,850
+01:19:31,168 --> 01:19:33,798
 Not a word of protest.
 
 607
-01:19:34,460 --> 01:19:37,020
+01:19:34,408 --> 01:19:36,968
 You should find a new boyfriend.
 
 608
-01:21:39,189 --> 01:21:40,880
+01:21:39,137 --> 01:21:40,828
 Go find Mathis.
 
 609
-01:21:41,090 --> 01:21:44,437
+01:21:41,038 --> 01:21:44,385
 Tell him I've hidden the bodies here
 and I want him to get rid of them.
 
 610
-01:21:44,520 --> 01:21:47,550
+01:21:44,468 --> 01:21:47,498
 Do that now. Go. Go, go!
 
 611
-01:22:50,390 --> 01:22:52,979
+01:22:50,338 --> 01:22:52,927
 You changed your shirt, Mr. Bond.
 
 612
-01:22:53,329 --> 01:22:57,020
+01:22:53,277 --> 01:22:56,968
 I hope our little game
 isn't causing you to perspire.
 
 613
-01:22:57,229 --> 01:22:58,460
+01:22:57,177 --> 01:22:58,408
 A little.
 
 614
-01:22:58,659 --> 01:23:02,259
+01:22:58,607 --> 01:23:02,207
 But I won't consider myself to be
 in trouble until I start weeping blood.
 
 615
-01:23:02,439 --> 01:23:06,460
+01:23:02,387 --> 01:23:06,408
 Ladies and gentlemen, if everybody's
 ready, let's continue the game.
 
 616
-01:24:07,699 --> 01:24:12,069
+01:24:07,647 --> 01:24:12,017
 It's like there's blood on my hands.
 It's not coming off.
 
 617
-01:24:13,109 --> 01:24:14,970
+01:24:13,057 --> 01:24:14,918
 Here, let's see.
 
 618
-01:24:30,560 --> 01:24:32,390
+01:24:30,508 --> 01:24:32,338
 That's better.
 
 619
-01:24:36,460 --> 01:24:37,789
+01:24:36,408 --> 01:24:37,737
 You cold?
 
 620
-01:24:38,000 --> 01:24:39,399
+01:24:37,948 --> 01:24:39,347
 Yeah.
 
 621
-01:24:39,600 --> 01:24:41,500
+01:24:39,548 --> 01:24:41,448
 Here.
 
 622
-01:25:38,220 --> 01:25:40,489
+01:25:38,168 --> 01:25:40,437
 You have any trouble with the bodies?
 
 623
-01:25:40,859 --> 01:25:42,989
+01:25:40,807 --> 01:25:42,937
 Less than some.
 
 624
-01:25:56,779 --> 01:26:00,510
+01:25:56,727 --> 01:26:00,458
 Being dead doesn't mean
 one can't still be helpful.
 
 625
-01:26:01,449 --> 01:26:04,140
+01:26:01,397 --> 01:26:04,088
 That'll keep Le Chiffre
 looking over his shoulder.
 
 626
-01:26:04,350 --> 01:26:06,750
+01:26:04,298 --> 01:26:06,698
 He'll be wondering who's gonna
 come for him next.
 
 627
-01:26:08,220 --> 01:26:10,449
+01:26:08,168 --> 01:26:10,397
 How's our girl?
 
 628
-01:26:10,989 --> 01:26:14,189
+01:26:10,937 --> 01:26:14,137
 Melted your cold heart yet?
 
 629
-01:26:32,109 --> 01:26:33,310
+01:26:32,057 --> 01:26:33,258
 Call.
 
 630
-01:26:33,510 --> 01:26:34,909
+01:26:33,458 --> 01:26:34,857
 Fold.
 
 631
-01:26:35,109 --> 01:26:37,079
+01:26:35,057 --> 01:26:37,027
 And call.
 
 632
-01:26:38,380 --> 01:26:40,439
+01:26:38,328 --> 01:26:40,387
 Three players.
 
 633
-01:26:44,060 --> 01:26:45,819
+01:26:44,008 --> 01:26:45,767
 Three hundred grand.
 
 634
-01:26:46,029 --> 01:26:47,689
+01:26:45,977 --> 01:26:47,637
 Bet. Three hundred thousand.
 
 635
-01:26:49,560 --> 01:26:51,220
+01:26:49,508 --> 01:26:51,168
 Call.
 
 636
-01:26:52,970 --> 01:26:53,970
+01:26:52,918 --> 01:26:53,918
 And call.
 
 637
-01:26:59,100 --> 01:27:00,399
+01:26:59,048 --> 01:27:00,347
 Three players.
 
 638
-01:27:04,739 --> 01:27:05,739
+01:27:04,687 --> 01:27:05,687
 Check.
 
 639
-01:27:11,250 --> 01:27:12,409
+01:27:11,198 --> 01:27:12,357
 Monsieur Bond?
 
 640
-01:27:22,289 --> 01:27:24,729
+01:27:22,237 --> 01:27:24,677
 Bet. Five hundred thousand.
 
 641
-01:27:36,409 --> 01:27:40,710
+01:27:36,357 --> 01:27:40,658
 Look. It's the tell. He is bluffing.
 
 642
-01:27:40,909 --> 01:27:42,939
+01:27:40,857 --> 01:27:42,887
 My God, James was right.
 
 643
-01:27:44,050 --> 01:27:45,979
+01:27:43,998 --> 01:27:45,927
 It's up to you.
 
 644
-01:27:52,119 --> 01:27:54,520
+01:27:52,067 --> 01:27:54,468
 Raise. One million.
 
 645
-01:28:01,600 --> 01:28:03,970
+01:28:01,548 --> 01:28:03,918
 Seems someone knows something I don't.
 
 646
-01:28:05,000 --> 01:28:06,199
+01:28:04,948 --> 01:28:06,147
 Fold.
 
 647
-01:28:06,409 --> 01:28:08,170
+01:28:06,357 --> 01:28:08,118
 Heads up, gentlemen.
 
 648
-01:28:08,369 --> 01:28:09,930
+01:28:08,317 --> 01:28:09,878
 It's up to you.
 
 649
-01:28:24,119 --> 01:28:25,590
+01:28:24,067 --> 01:28:25,538
 Two.
 
 650
-01:28:26,359 --> 01:28:28,449
+01:28:26,307 --> 01:28:28,397
 Re-raise. Two million.
 
 651
-01:28:30,430 --> 01:28:32,489
+01:28:30,378 --> 01:28:32,437
 And it's up to you.
 
 652
-01:28:43,579 --> 01:28:45,439
+01:28:43,527 --> 01:28:45,387
 I'm all in.
 
 653
-01:28:52,850 --> 01:28:55,220
+01:28:52,798 --> 01:28:55,168
 Well, it's 14 million and 500,000.
 
 654
-01:28:55,420 --> 01:28:57,750
+01:28:55,368 --> 01:28:57,698
 It's up to you, Monsieur Bond.
 
 655
-01:29:00,390 --> 01:29:04,760
+01:29:00,338 --> 01:29:04,708
 Bond will have to go all in
 to call his bluff.
 
 656
-01:29:05,699 --> 01:29:08,430
+01:29:05,647 --> 01:29:08,378
 - Call.
 - Call.
 
 657
-01:29:08,869 --> 01:29:11,229
+01:29:08,817 --> 01:29:11,177
 Gentlemen, showdown, please.
 
 658
-01:29:12,970 --> 01:29:15,369
+01:29:12,918 --> 01:29:15,317
 Full house. Kings and aces.
 
 659
-01:29:15,569 --> 01:29:17,600
+01:29:15,517 --> 01:29:17,548
 Monsieur Le Chiffre.
 
 660
-01:29:30,560 --> 01:29:34,250
+01:29:30,508 --> 01:29:34,198
 It's four jacks.
 Monsieur Le Chiffre wins.
 
 661
-01:29:38,260 --> 01:29:41,430
+01:29:38,208 --> 01:29:41,378
 You must have thought
 I was bluffing, Mr. Bond.
 
 662
-01:29:42,100 --> 01:29:43,260
+01:29:42,048 --> 01:29:43,208
 Please.
 
 663
-01:29:43,470 --> 01:29:45,770
+01:29:43,418 --> 01:29:45,718
 We will now break for one hour.
 
 664
-01:29:45,970 --> 01:29:49,300
+01:29:45,918 --> 01:29:49,248
 When we return,
 the big blind will be 200,000.
 
 665
-01:29:56,750 --> 01:29:58,409
+01:29:56,698 --> 01:29:58,357
 Good game.
 
 666
-01:30:26,550 --> 01:30:29,880
+01:30:26,498 --> 01:30:29,828
 Well, I'm gonna need the other
 5 million to buy back in.
 
 667
-01:30:30,449 --> 01:30:32,779
+01:30:30,397 --> 01:30:32,727
 I can't do that, James.
 
 668
-01:30:33,319 --> 01:30:35,720
+01:30:33,267 --> 01:30:35,668
 Look, I made a mistake.
 
 669
-01:30:36,520 --> 01:30:39,510
+01:30:36,468 --> 01:30:39,458
 I was impatient, maybe I was arrogant,
 but I can beat him.
 
 670
-01:30:39,729 --> 01:30:41,159
+01:30:39,677 --> 01:30:41,107
 - I'm sorry.
 - Sorry?
 
 671
-01:30:42,229 --> 01:30:43,659
+01:30:42,177 --> 01:30:43,607
 Sorry?
 
 672
-01:30:43,859 --> 01:30:45,630
+01:30:43,807 --> 01:30:45,578
 Try putting that in a sentence.
 
 673
-01:30:45,829 --> 01:30:47,347
+01:30:45,777 --> 01:30:47,295
 "Sorry Le Chiffre's gonna win...
 
 674
-01:30:47,430 --> 01:30:49,887
+01:30:47,378 --> 01:30:49,835
 ...continue funding terror and killing."
 That kind of sorry?
 
 675
-01:30:49,970 --> 01:30:53,029
+01:30:49,918 --> 01:30:52,977
 You lost because of your ego,
 and that same ego can't take it.
 
 676
-01:30:53,239 --> 01:30:54,640
+01:30:53,187 --> 01:30:54,588
 That's what this is about.
 
 677
-01:30:54,840 --> 01:30:56,840
+01:30:54,788 --> 01:30:56,788
 All you're going to do now is lose more.
 
 678
-01:30:57,439 --> 01:30:58,600
+01:30:57,387 --> 01:30:58,548
 Then you're an idiot.
 
 679
-01:30:58,810 --> 01:31:01,680
+01:30:58,758 --> 01:31:01,628
 - I'm sorry?
 - I said, you're a bloody idiot.
 
 680
-01:31:03,579 --> 01:31:05,850
+01:31:03,527 --> 01:31:05,798
 Look in my eyes.
 
 681
-01:31:06,619 --> 01:31:08,380
+01:31:06,567 --> 01:31:08,328
 I can beat this man, you know that.
 
 682
-01:31:11,020 --> 01:31:13,619
+01:31:10,968 --> 01:31:13,567
 Get your hand off my arm.
 
 683
-01:31:36,520 --> 01:31:37,680
+01:31:36,468 --> 01:31:37,628
 Vodka martini.
 
 684
-01:31:37,880 --> 01:31:40,680
+01:31:37,828 --> 01:31:40,628
 - Shaken or stirred?
 - Do I look like I give a damn?
 
 685
-01:31:58,869 --> 01:32:01,140
+01:31:58,817 --> 01:32:01,088
 - James.
 - Get the girl out.
 
 686
-01:32:08,409 --> 01:32:09,409
+01:32:08,357 --> 01:32:09,357
 Funny game, right?
 
 687
-01:32:09,579 --> 01:32:12,680
+01:32:09,527 --> 01:32:12,628
 Sorry, I should've introduced myself,
 seeing as we're related.
 
 688
-01:32:13,420 --> 01:32:16,510
+01:32:13,368 --> 01:32:16,458
 Felix Leiter, a brother from Langley.
 
 689
-01:32:18,520 --> 01:32:20,047
+01:32:18,468 --> 01:32:19,995
 You should have a little faith.
 
 690
-01:32:20,130 --> 01:32:22,746
+01:32:20,078 --> 01:32:22,694
 If you keep your head about you,
 I think you have him.
 
 691
-01:32:22,829 --> 01:32:25,090
+01:32:22,777 --> 01:32:25,038
 Had. Excuse me.
 
 692
-01:32:25,529 --> 01:32:27,460
+01:32:25,477 --> 01:32:27,408
 You're not buying in?
 
 693
-01:32:29,170 --> 01:32:30,529
+01:32:29,118 --> 01:32:30,477
 No.
 
 694
-01:32:33,869 --> 01:32:37,810
+01:32:33,817 --> 01:32:37,758
 Listen, I'm bleeding chips.
 I'm not gonna last much longer.
 
 695
-01:32:38,010 --> 01:32:40,670
+01:32:37,958 --> 01:32:40,618
 You have a better chance.
 I'll stake you.
 
 696
-01:32:41,750 --> 01:32:43,967
+01:32:41,698 --> 01:32:43,915
 I'm saying I'll give you the money
 to keep going.
 
 697
-01:32:44,050 --> 01:32:48,920
+01:32:43,998 --> 01:32:48,868
 Just one thing. If you pull it off,
 the CIA bring him in.
 
 698
-01:32:50,289 --> 01:32:52,619
+01:32:50,237 --> 01:32:52,567
 And what about the winnings?
 
 699
-01:32:53,329 --> 01:32:55,890
+01:32:53,277 --> 01:32:55,838
 Does it look like we need the money?
 
 700
-01:33:07,439 --> 01:33:09,529
+01:33:07,387 --> 01:33:09,477
 Shall we up the blinds?
 
 701
-01:33:11,739 --> 01:33:13,439
+01:33:11,687 --> 01:33:13,387
 Why not?
 
 702
-01:33:16,920 --> 01:33:18,409
+01:33:16,868 --> 01:33:18,357
 Bet.
 
 703
-01:33:20,489 --> 01:33:22,149
+01:33:20,437 --> 01:33:22,097
 Raise.
 
 704
-01:33:37,670 --> 01:33:39,600
+01:33:37,618 --> 01:33:39,548
 And fold.
 
 705
-01:33:41,840 --> 01:33:43,810
+01:33:41,788 --> 01:33:43,758
 Excuse me, please.
 
 706
-01:33:45,510 --> 01:33:47,140
+01:33:45,458 --> 01:33:47,088
 Call.
 
 707
-01:33:48,609 --> 01:33:49,840
+01:33:48,557 --> 01:33:49,788
 Raise.
 
 708
-01:33:50,050 --> 01:33:53,510
+01:33:49,998 --> 01:33:53,458
 Raise. Five hundred thousand.
 
 709
-01:33:56,020 --> 01:33:57,960
+01:33:55,968 --> 01:33:57,908
 - Fold.
 - Thank you.
 
 710
-01:34:00,329 --> 01:34:01,489
+01:34:00,277 --> 01:34:01,437
 Fold.
 
 711
-01:34:05,760 --> 01:34:07,289
+01:34:05,708 --> 01:34:07,237
 Fold.
 
 712
-01:34:12,199 --> 01:34:13,640
+01:34:12,147 --> 01:34:13,588
 Thank you.
 
 713
-01:34:13,840 --> 01:34:14,840
+01:34:13,788 --> 01:34:14,788
 Wins.
 
 714
-01:34:35,930 --> 01:34:37,090
+01:34:35,878 --> 01:34:37,038
 Deal me out.
 
 715
-01:34:38,100 --> 01:34:41,220
+01:34:38,048 --> 01:34:41,168
 Sorry, sir. You are the big blind.
 
 716
-01:34:43,199 --> 01:34:44,760
+01:34:43,147 --> 01:34:44,708
 Small blind, please.
 
 717
-01:35:48,869 --> 01:35:51,270
+01:35:48,817 --> 01:35:51,218
 - Who is it?
 - It's 007.
 
 718
-01:35:52,939 --> 01:35:55,539
+01:35:52,887 --> 01:35:55,487
 Bond's been poisoned.
 He's going into cardiac arrest.
 
 719
-01:35:57,680 --> 01:36:00,227
+01:35:57,628 --> 01:36:00,175
 Stay calm and don't interrupt.
 Because you'll be dead...
 
 720
-01:36:00,310 --> 01:36:03,167
+01:36:00,258 --> 01:36:03,115
 ...within two minutes
 unless you do exactly what I tell you.
 
 721
-01:36:03,250 --> 01:36:04,409
+01:36:03,198 --> 01:36:04,357
 I'm all ears.
 
 722
-01:36:04,619 --> 01:36:06,267
+01:36:04,567 --> 01:36:06,215
 Remove the defibrillator from the pouch.
 
 723
-01:36:06,350 --> 01:36:08,900
+01:36:06,298 --> 01:36:08,848
 - Do we know what it is yet?
 - We're still scanning.
 
 724
-01:36:14,329 --> 01:36:17,060
+01:36:14,277 --> 01:36:17,008
 Attach the leads to your chest.
 
 725
-01:36:25,699 --> 01:36:27,670
+01:36:25,647 --> 01:36:27,618
 Ventricular tachycardia. Digitalis.
 
 726
-01:36:27,970 --> 01:36:30,896
+01:36:27,918 --> 01:36:30,844
 What do we give him? The kit
 has amphetamines, antihistamines...
 
 727
-01:36:30,979 --> 01:36:32,600
+01:36:30,927 --> 01:36:32,548
 ...hydrocortisone. Adrenalin?
 
 728
-01:36:32,810 --> 01:36:35,667
+01:36:32,758 --> 01:36:35,615
 - As soon as it reads charged...
 - Lidocaine. That'll work.
 
 729
-01:36:35,750 --> 01:36:38,337
+01:36:35,698 --> 01:36:38,285
 Bond, don't push the red button yet.
 Do you hear me? Don't push it.
 
 730
-01:36:38,420 --> 01:36:39,850
+01:36:38,368 --> 01:36:39,798
 His heart's gonna stop.
 
 731
-01:36:40,050 --> 01:36:42,700
+01:36:39,998 --> 01:36:42,648
 There's only time for one charge
 before he passes out.
 
 732
-01:36:43,420 --> 01:36:47,289
+01:36:43,368 --> 01:36:47,237
 Take the blue combipen, Bond.
 Mid-neck into the vein.
 
 733
-01:36:47,489 --> 01:36:49,789
+01:36:47,437 --> 01:36:49,737
 That'll counteract the digitalis.
 
 734
-01:36:53,100 --> 01:36:55,017
+01:36:53,048 --> 01:36:54,965
 You're going to pass out in a few seconds.
 
 735
-01:36:55,100 --> 01:36:56,656
+01:36:55,048 --> 01:36:56,604
 You need to keep your heart going.
 
 736
-01:36:56,739 --> 01:36:58,239
+01:36:56,687 --> 01:36:58,187
 Push the red button now, Bond.
 
 737
-01:37:04,079 --> 01:37:06,510
+01:37:04,027 --> 01:37:06,458
 - Bond, push the damn button!
 - Do it now!
 
 738
-01:37:54,390 --> 01:37:56,359
+01:37:54,338 --> 01:37:56,307
 - You okay?
 - Me?
 
 739
-01:37:59,699 --> 01:38:02,289
+01:37:59,647 --> 01:38:02,237
 - Thank you.
 - You're welcome.
 
 740
-01:38:02,500 --> 01:38:06,159
+01:38:02,448 --> 01:38:06,107
 - Now get yourself off to a hospital.
 - I will do.
 
 741
-01:38:07,170 --> 01:38:08,670
+01:38:07,118 --> 01:38:08,618
 As soon as I've won this game.
 
 742
-01:38:08,770 --> 01:38:11,500
+01:38:08,718 --> 01:38:11,448
 You're not seriously going back there?
 
 743
-01:38:14,079 --> 01:38:15,979
+01:38:14,027 --> 01:38:15,927
 I wouldn't dream of it.
 
 744
-01:38:17,619 --> 01:38:19,210
+01:38:17,567 --> 01:38:19,158
 Bet. One million.
 
 745
-01:38:22,949 --> 01:38:24,510
+01:38:22,897 --> 01:38:24,458
 - All in.
 - Call. All in.
 
 746
-01:38:24,720 --> 01:38:27,319
+01:38:24,668 --> 01:38:27,267
 Gentlemen, showdown, please.
 
 747
-01:38:29,329 --> 01:38:31,229
+01:38:29,277 --> 01:38:31,177
 Two pair. Aces and sevens.
 
 748
-01:38:35,170 --> 01:38:37,600
+01:38:35,118 --> 01:38:37,548
 Queen plays. Wins.
 
 749
-01:38:46,180 --> 01:38:47,369
+01:38:46,128 --> 01:38:47,317
 Oh, I'm sorry.
 
 750
-01:38:47,579 --> 01:38:50,140
+01:38:47,527 --> 01:38:50,088
 That last hand, it nearly killed me.
 
 751
-01:38:51,579 --> 01:38:55,279
+01:38:51,527 --> 01:38:55,227
 Gentlemen, with this chip exchange,
 we enter the final phase of the game...
 
 752
-01:38:55,390 --> 01:38:57,149
+01:38:55,338 --> 01:38:57,097
 ...which means no more buy-ins.
 
 753
-01:38:57,359 --> 01:39:00,550
+01:38:57,307 --> 01:39:00,498
 The big blind is now 1 million dollars.
 
 754
-01:39:07,630 --> 01:39:08,760
+01:39:07,578 --> 01:39:08,708
 Four players.
 
 755
-01:39:11,569 --> 01:39:12,930
+01:39:11,517 --> 01:39:12,878
 It's your bet.
 
 756
-01:39:16,979 --> 01:39:18,179
+01:39:16,927 --> 01:39:18,127
 - Monsieur Bond?
 - Check.
 
 757
-01:39:18,340 --> 01:39:22,180
+01:39:18,288 --> 01:39:22,128
 - Check.
 - Twenty-four million in the pot already.
 
 758
-01:39:25,050 --> 01:39:27,180
+01:39:24,998 --> 01:39:27,128
 Check. And check.
 
 759
-01:39:27,619 --> 01:39:29,210
+01:39:27,567 --> 01:39:29,158
 All check.
 
 760
-01:39:29,550 --> 01:39:30,750
+01:39:29,498 --> 01:39:30,698
 Four players.
 
 761
-01:39:35,760 --> 01:39:37,159
+01:39:35,708 --> 01:39:37,107
 - Check.
 - Check.
 
 762
-01:39:43,069 --> 01:39:45,229
+01:39:43,017 --> 01:39:45,177
 All in. Six million.
 
 763
-01:39:46,140 --> 01:39:48,659
+01:39:46,088 --> 01:39:48,607
 Bet. Six million. All in.
 
 764
-01:39:54,109 --> 01:39:56,439
+01:39:54,057 --> 01:39:56,387
 Five million. All in.
 
 765
-01:39:56,649 --> 01:39:59,210
+01:39:56,597 --> 01:39:59,158
 Bet is 6 million.
 
 766
-01:40:06,729 --> 01:40:08,060
+01:40:06,677 --> 01:40:08,008
 Raise.
 
 767
-01:40:09,630 --> 01:40:10,819
+01:40:09,578 --> 01:40:10,767
 Raise.
 
 768
-01:40:11,029 --> 01:40:14,289
+01:40:10,977 --> 01:40:14,237
 Twelve million. Heads up.
 
 769
-01:40:44,899 --> 01:40:48,020
+01:40:44,847 --> 01:40:47,968
 Forty million, 500,000. All in.
 
 770
-01:40:50,470 --> 01:40:52,300
+01:40:50,418 --> 01:40:52,248
 Raise. All in.
 
 771
-01:41:11,189 --> 01:41:14,779
+01:41:11,137 --> 01:41:14,727
 Well, I think I will call you on that one.
 
 772
-01:41:21,630 --> 01:41:22,829
+01:41:21,578 --> 01:41:22,777
 Call.
 
 773
-01:41:34,710 --> 01:41:38,909
+01:41:34,658 --> 01:41:38,857
 One hundred and fifteen million
 in the pot.
 
 774
-01:41:39,119 --> 01:41:41,850
+01:41:39,067 --> 01:41:41,798
 Gentlemen, showdown, please.
 
 775
-01:41:45,489 --> 01:41:47,420
+01:41:45,437 --> 01:41:47,368
 Flush. Ace, king, queen.
 
 776
-01:41:56,000 --> 01:41:58,989
+01:41:55,948 --> 01:41:58,937
 Full house. Eights full of aces.
 
 777
-01:42:17,159 --> 01:42:19,279
+01:42:17,107 --> 01:42:19,227
 A higher full house.
 
 778
-01:42:19,489 --> 01:42:20,960
+01:42:19,437 --> 01:42:20,908
 Aces full of sixes.
 
 779
-01:42:26,970 --> 01:42:28,159
+01:42:26,918 --> 01:42:28,107
 Monsieur Bond.
 
 780
-01:42:45,220 --> 01:42:47,710
+01:42:45,168 --> 01:42:47,658
 Five and seven of spades.
 
 781
-01:42:47,920 --> 01:42:49,390
+01:42:47,868 --> 01:42:49,338
 A straight flush.
 
 782
-01:42:49,590 --> 01:42:50,880
+01:42:49,538 --> 01:42:50,828
 Four to the eight.
 
 783
-01:42:51,090 --> 01:42:53,180
+01:42:51,038 --> 01:42:53,128
 The high hand.
 
 784
-01:42:57,899 --> 01:42:59,420
+01:42:57,847 --> 01:42:59,368
 Monsieur Bond wins.
 
 785
-01:43:00,430 --> 01:43:02,729
+01:43:00,378 --> 01:43:02,677
 - For you.
 - Thank you very much.
 
 786
-01:43:05,170 --> 01:43:06,359
+01:43:05,118 --> 01:43:06,307
 Congratulations.
 
 787
-01:43:06,569 --> 01:43:10,100
+01:43:06,517 --> 01:43:10,048
 - He's all yours.
 - Much appreciated, brother.
 
 788
-01:43:17,079 --> 01:43:18,239
+01:43:17,027 --> 01:43:18,187
 Congratulations.
 
 789
-01:43:18,449 --> 01:43:20,437
+01:43:18,397 --> 01:43:20,385
 You know,
 I think a celebration's in order.
 
 790
-01:43:20,520 --> 01:43:23,039
+01:43:20,468 --> 01:43:22,987
 You were almost dead an hour ago.
 
 791
-01:43:23,920 --> 01:43:26,909
+01:43:23,868 --> 01:43:26,857
 Come on, I'm famished.
 
 792
-01:43:37,340 --> 01:43:39,199
+01:43:37,288 --> 01:43:39,147
 Thank you.
 
 793
-01:43:46,810 --> 01:43:50,710
+01:43:46,758 --> 01:43:50,658
 Mathis says the Americans
 have made contact with Le Chiffre.
 
 794
-01:43:50,920 --> 01:43:53,539
+01:43:50,868 --> 01:43:53,487
 They're going to extract him before dawn.
 
 795
-01:43:54,250 --> 01:43:56,350
+01:43:54,198 --> 01:43:56,298
 You know, I think I'll call that a Vesper.
 
 796
-01:43:57,619 --> 01:43:59,420
+01:43:57,567 --> 01:43:59,368
 Because of the bitter aftertaste?
 
 797
-01:43:59,619 --> 01:44:03,789
+01:43:59,567 --> 01:44:03,737
 No. Because once you've tasted it,
 that's all you want to drink.
 
 798
-01:44:06,399 --> 01:44:09,649
+01:44:06,347 --> 01:44:09,597
 - I thought that was quite a good line.
 - It was a very good line.
 
 799
-01:44:10,739 --> 01:44:12,229
+01:44:10,687 --> 01:44:12,177
 But you're laughing at it.
 
 800
-01:44:12,569 --> 01:44:16,840
+01:44:12,517 --> 01:44:16,788
 - Not so much it as you.
 - Well, that's fine then.
 
 801
-01:44:23,149 --> 01:44:24,710
+01:44:23,097 --> 01:44:24,658
 I figured out what that is.
 
 802
-01:44:27,149 --> 01:44:29,420
+01:44:27,097 --> 01:44:29,368
 It's an Algerian love knot.
 
 803
-01:44:29,619 --> 01:44:32,819
+01:44:29,567 --> 01:44:32,767
 Really? I thought it was
 just something pretty.
 
 804
-01:44:33,020 --> 01:44:34,649
+01:44:32,968 --> 01:44:34,597
 No, you didn't.
 
 805
-01:44:35,560 --> 01:44:37,029
+01:44:35,508 --> 01:44:36,977
 Someone gave that to you.
 
 806
-01:44:40,729 --> 01:44:42,460
+01:44:40,677 --> 01:44:42,408
 He's a very lucky man.
 
 807
-01:44:48,970 --> 01:44:51,810
+01:44:48,918 --> 01:44:51,758
 You can switch off so easily, can't you?
 
 808
-01:44:52,180 --> 01:44:54,369
+01:44:52,128 --> 01:44:54,317
 It doesn't bother you,
 killing those people?
 
 809
-01:44:54,979 --> 01:44:58,010
+01:44:54,927 --> 01:44:57,958
 Well, I wouldn't be very good
 at my job if it did.
 
 810
-01:44:58,949 --> 01:45:01,180
+01:44:58,897 --> 01:45:01,128
 I don't believe you.
 
 811
-01:45:01,819 --> 01:45:03,979
+01:45:01,767 --> 01:45:03,927
 You've got a choice, you know?
 
 812
-01:45:04,189 --> 01:45:05,906
+01:45:04,137 --> 01:45:05,854
 Just because you've done something...
 
 813
-01:45:05,989 --> 01:45:08,119
+01:45:05,937 --> 01:45:08,067
 ...doesn't mean
 you have to keep doing it.
 
 814
-01:45:08,329 --> 01:45:11,347
+01:45:08,277 --> 01:45:11,295
 Why is it people who can't take advice
 always insist on giving it?
 
 815
-01:45:11,430 --> 01:45:13,399
+01:45:11,378 --> 01:45:13,347
 You think I can't take my own advice?
 
 816
-01:45:14,300 --> 01:45:16,960
+01:45:14,248 --> 01:45:16,908
 I think something is driving you.
 
 817
-01:45:17,500 --> 01:45:19,700
+01:45:17,448 --> 01:45:19,648
 And I think I'll never find out
 what that is.
 
 818
-01:45:25,479 --> 01:45:27,600
+01:45:25,427 --> 01:45:27,548
 Mathis needs me.
 
 819
-01:45:28,279 --> 01:45:29,539
+01:45:28,227 --> 01:45:29,487
 Good night.
 
 820
-01:45:29,750 --> 01:45:31,079
+01:45:29,698 --> 01:45:31,027
 Congratulations again.
 
 821
-01:45:50,369 --> 01:45:52,199
+01:45:50,317 --> 01:45:52,147
 Mathis.
 
 822
-01:47:44,149 --> 01:47:48,079
+01:47:44,097 --> 01:47:48,027
 I'm afraid your friend Mathis is really...
 
 823
-01:47:49,350 --> 01:47:51,149
+01:47:49,298 --> 01:47:51,097
 ...my friend Mathis.
 
 824
-01:49:33,930 --> 01:49:36,659
+01:49:33,878 --> 01:49:36,607
 You've taken good care of your body.
 
 825
-01:49:43,199 --> 01:49:45,689
+01:49:43,147 --> 01:49:45,637
 Such a waste.
 
 826
-01:50:02,949 --> 01:50:04,789
+01:50:02,897 --> 01:50:04,737
 You know...
 
 827
-01:50:05,159 --> 01:50:08,279
+01:50:05,107 --> 01:50:08,227
 ...I never understood
 all these elaborate tortures.
 
 828
-01:50:08,489 --> 01:50:10,689
+01:50:08,437 --> 01:50:10,637
 It's the simplest thing...
 
 829
-01:50:10,899 --> 01:50:14,420
+01:50:10,847 --> 01:50:14,368
 ...to cause more pain
 than a man can possibly endure.
 
 830
-01:50:15,930 --> 01:50:17,090
+01:50:15,878 --> 01:50:17,038
 And of course...
 
 831
-01:50:17,300 --> 01:50:20,270
+01:50:17,248 --> 01:50:20,218
 ...it's not only the immediate agony,
 but the knowledge...
 
 832
-01:50:20,470 --> 01:50:23,130
+01:50:20,418 --> 01:50:23,078
 ...that if you do not yield
 soon enough...
 
 833
-01:50:23,840 --> 01:50:27,470
+01:50:23,788 --> 01:50:27,418
 ...there will be little left
 to identify you as a man.
 
 834
-01:50:33,550 --> 01:50:35,449
+01:50:33,498 --> 01:50:35,397
 The only question remains...
 
 835
-01:50:36,949 --> 01:50:39,119
+01:50:36,897 --> 01:50:39,067
 ...will you yield in time?
 
 836
-01:50:41,189 --> 01:50:44,319
+01:50:41,137 --> 01:50:44,267
 I want the money.
 
 837
-01:51:03,050 --> 01:51:06,479
+01:51:02,998 --> 01:51:06,427
 Miss Lynd will give me the account
 number, if she hasn't already.
 
 838
-01:51:06,680 --> 01:51:09,050
+01:51:06,628 --> 01:51:08,998
 So all I need from you is the password.
 
 839
-01:51:18,829 --> 01:51:22,060
+01:51:18,777 --> 01:51:22,008
 The password, please.
 
 840
-01:51:26,300 --> 01:51:28,600
+01:51:26,248 --> 01:51:28,548
 I've got a little itch...
 
 841
-01:51:28,810 --> 01:51:30,670
+01:51:28,758 --> 01:51:30,618
 ...down there.
 
 842
-01:51:31,439 --> 01:51:32,909
+01:51:31,387 --> 01:51:32,857
 Would you mind?
 
 843
-01:51:40,649 --> 01:51:44,050
+01:51:40,597 --> 01:51:43,998
 No! No! No!
 
 844
-01:51:45,020 --> 01:51:48,720
+01:51:44,968 --> 01:51:48,668
 No. To the right.
 To the right. To the right!
 
 845
-01:51:48,930 --> 01:51:51,359
+01:51:48,878 --> 01:51:51,307
 You are a funny man, Mr. Bond.
 
 846
-01:51:53,300 --> 01:51:54,789
+01:51:53,248 --> 01:51:54,737
 Yeah!
 
 847
-01:51:56,029 --> 01:51:59,329
+01:51:55,977 --> 01:51:59,277
 Yes, yes, yes.
 
 848
-01:52:05,010 --> 01:52:10,449
+01:52:04,958 --> 01:52:10,397
 Now the whole world's gonna know
 that you died scratching my balls.
 
 849
-01:52:11,750 --> 01:52:13,739
+01:52:11,698 --> 01:52:13,687
 I died?
 
 850
-01:52:13,949 --> 01:52:15,250
+01:52:13,897 --> 01:52:15,198
 - I died?
 - Yes.
 
 851
-01:52:15,449 --> 01:52:18,536
+01:52:15,397 --> 01:52:18,484
 Because no matter what you do,
 I'm not gonna give you the password.
 
 852
-01:52:18,619 --> 01:52:20,576
+01:52:18,567 --> 01:52:20,524
 Which means your clients
 will hunt you down...
 
 853
-01:52:20,659 --> 01:52:23,606
+01:52:20,607 --> 01:52:23,554
 ...and cut you into pieces of meat
 while you're still breathing.
 
 854
-01:52:23,689 --> 01:52:25,090
+01:52:23,637 --> 01:52:25,038
 Because if you kill me...
 
 855
-01:52:25,300 --> 01:52:27,359
+01:52:25,248 --> 01:52:27,307
 ...there'll be nowhere else to hide.
 
 856
-01:52:27,569 --> 01:52:30,359
+01:52:27,517 --> 01:52:30,307
 But you are so wrong!
 
 857
-01:52:30,569 --> 01:52:33,687
+01:52:30,517 --> 01:52:33,635
 Because even after I slaughtered
 you and your little girlfriend...
 
 858
-01:52:33,770 --> 01:52:36,569
+01:52:33,718 --> 01:52:36,517
 ...your people would still welcome me
 with open arms...
 
 859
-01:52:38,109 --> 01:52:41,739
+01:52:38,057 --> 01:52:41,687
 ...because they need what I know.
 
 860
-01:52:42,979 --> 01:52:45,039
+01:52:42,927 --> 01:52:44,987
 The big picture.
 
 861
-01:52:52,960 --> 01:52:55,189
+01:52:52,908 --> 01:52:55,137
 Give me the password...
 
 862
-01:52:55,390 --> 01:52:57,329
+01:52:55,338 --> 01:52:57,277
 ...and I will at least let her live.
 
 863
-01:53:01,000 --> 01:53:04,090
+01:53:00,948 --> 01:53:04,038
 Bond. Do it soon enough
 and she might even be in one piece.
 
 864
-01:53:17,180 --> 01:53:19,330
+01:53:17,128 --> 01:53:19,278
 You really aren't going to tell me,
 are you?
 
 865
-01:53:19,520 --> 01:53:21,310
+01:53:19,468 --> 01:53:21,258
 No.
 
 866
-01:53:23,149 --> 01:53:25,050
+01:53:23,097 --> 01:53:24,998
 So I think...
 
 867
-01:53:29,590 --> 01:53:33,029
+01:53:29,538 --> 01:53:32,977
 ...I'll feed you
 what you seem not to value.
 
 868
-01:53:46,180 --> 01:53:48,439
+01:53:46,128 --> 01:53:48,387
 I'll get the money.
 
 869
-01:53:49,350 --> 01:53:51,840
+01:53:49,298 --> 01:53:51,788
 Tell them I'll get the money.
 
 870
-01:53:52,050 --> 01:53:56,510
+01:53:51,998 --> 01:53:56,458
 Money isn't as valuable to our
 organization as knowing who to trust.
 
 871
-01:54:20,140 --> 01:54:21,539
+01:54:20,088 --> 01:54:21,487
 Francesco.
 
 872
-01:54:22,479 --> 01:54:24,380
+01:54:22,427 --> 01:54:24,328
 Francesco.
 
 873
-01:54:37,090 --> 01:54:39,220
+01:54:37,038 --> 01:54:39,168
 Vesper.
 
 874
-01:54:41,100 --> 01:54:43,000
+01:54:41,048 --> 01:54:42,948
 Vesper.
 
 875
-01:54:45,140 --> 01:54:46,659
+01:54:45,088 --> 01:54:46,607
 No.
 
 876
-01:54:47,470 --> 01:54:48,800
+01:54:47,418 --> 01:54:48,748
 Not him.
 
 877
-01:54:49,010 --> 01:54:50,909
+01:54:48,958 --> 01:54:50,857
 Not Mathis.
 
 878
-01:54:52,739 --> 01:54:53,899
+01:54:52,687 --> 01:54:53,847
 No.
 
 879
-01:54:54,750 --> 01:54:56,770
+01:54:54,698 --> 01:54:56,718
 I'll get the doctor.
 
 880
-01:54:59,550 --> 01:55:01,350
+01:54:59,498 --> 01:55:01,298
 Not him.
 
 881
-01:55:03,250 --> 01:55:04,409
+01:55:03,198 --> 01:55:04,357
 Any ideas?
 
 882
-01:55:08,159 --> 01:55:11,989
+01:55:08,107 --> 01:55:11,937
 - What?
 - Why they left the two of you alive.
 
 883
-01:55:14,000 --> 01:55:15,430
+01:55:13,948 --> 01:55:15,378
 Where is she?
 
 884
-01:55:16,470 --> 01:55:18,369
+01:55:16,418 --> 01:55:18,317
 Sleeping.
 
 885
-01:55:18,970 --> 01:55:22,229
+01:55:18,918 --> 01:55:22,177
 Well, I'm supposed
 to get you to drink this.
 
 886
-01:55:23,340 --> 01:55:25,000
+01:55:23,288 --> 01:55:24,948
 It's just odd...
 
 887
-01:55:25,210 --> 01:55:29,109
+01:55:25,158 --> 01:55:29,057
 ...killing everyone else
 but leaving you and her untouched.
 
 888
-01:55:29,310 --> 01:55:32,649
+01:55:29,258 --> 01:55:32,597
 Almost as if someone
 was trying to tell us something.
 
 889
-01:55:33,819 --> 01:55:35,939
+01:55:33,767 --> 01:55:35,887
 Get a look at the killer?
 
 890
-01:55:36,489 --> 01:55:38,220
+01:55:36,437 --> 01:55:38,168
 No.
 
 891
-01:55:39,689 --> 01:55:41,119
+01:55:39,637 --> 01:55:41,067
 Shame.
 
 892
-01:55:42,789 --> 01:55:44,520
+01:55:42,737 --> 01:55:44,468
 Drink up.
 
 893
-01:55:47,930 --> 01:55:50,090
+01:55:47,878 --> 01:55:50,038
 Anything else you remember?
 
 894
-01:55:50,300 --> 01:55:52,329
+01:55:50,248 --> 01:55:52,277
 Anything that can help us?
 
 895
-01:55:52,539 --> 01:55:54,159
+01:55:52,487 --> 01:55:54,107
 Help us?
 
 896
-01:55:54,369 --> 01:55:56,600
+01:55:54,317 --> 01:55:56,548
 Or help you?
 
 897
-01:56:36,979 --> 01:56:38,140
+01:56:36,927 --> 01:56:38,088
 Hello.
 
 898
-01:56:38,350 --> 01:56:40,180
+01:56:38,298 --> 01:56:40,128
 Hello.
 
 899
-01:56:41,890 --> 01:56:43,180
+01:56:41,838 --> 01:56:43,128
 You all right?
 
 900
-01:56:43,819 --> 01:56:45,979
+01:56:43,767 --> 01:56:45,927
 I can't resist waking you.
 
 901
-01:56:46,189 --> 01:56:50,819
+01:56:46,137 --> 01:56:50,767
 Every time I do, you look at me as if
 you haven't seen me in years.
 
 902
-01:56:51,960 --> 01:56:53,949
+01:56:51,908 --> 01:56:53,897
 It makes me feel reborn.
 
 903
-01:56:57,699 --> 01:57:00,800
+01:56:57,647 --> 01:57:00,748
 If you'd just been born...
 
 904
-01:57:01,470 --> 01:57:03,739
+01:57:01,418 --> 01:57:03,687
 ...wouldn't you be naked?
 
 905
-01:57:04,510 --> 01:57:06,699
+01:57:04,458 --> 01:57:06,647
 You have me there.
 
 906
-01:57:09,380 --> 01:57:12,079
+01:57:09,328 --> 01:57:12,027
 You can have me anywhere.
 
 907
-01:57:14,149 --> 01:57:15,680
+01:57:14,097 --> 01:57:15,628
 I can?
 
 908
-01:57:15,890 --> 01:57:19,750
+01:57:15,838 --> 01:57:19,698
 Yeah. Here, there,
 anywhere you like.
 
 909
-01:57:20,760 --> 01:57:23,659
+01:57:20,708 --> 01:57:23,607
 Does this mean that you're warming to me?
 
 910
-01:57:23,859 --> 01:57:26,060
+01:57:23,807 --> 01:57:26,008
 Yeah. That's how I would describe it.
 
 911
-01:57:26,260 --> 01:57:27,816
+01:57:26,208 --> 01:57:27,764
 It's just that not so long ago...
 
 912
-01:57:27,899 --> 01:57:31,770
+01:57:27,847 --> 01:57:31,718
 ...I would have described
 your feelings towards me as...
 
 913
-01:57:33,239 --> 01:57:35,869
+01:57:33,187 --> 01:57:35,817
 I'm trying to think
 of a better word than "loathing."
 
 914
-01:57:36,439 --> 01:57:39,340
+01:57:36,387 --> 01:57:39,288
 I'm afraid I'm a complicated woman.
 
 915
-01:57:39,880 --> 01:57:42,369
+01:57:39,828 --> 01:57:42,317
 That is something to be afraid of.
 
 916
-01:57:45,149 --> 01:57:48,779
+01:57:45,097 --> 01:57:48,727
 - Hello.
 - Oh, perfect timing.
 
 917
-01:57:50,220 --> 01:57:52,949
+01:57:50,168 --> 01:57:52,897
 Monsieur Mendel.
 How are things in Switzerland?
 
 918
-01:57:53,159 --> 01:57:55,149
+01:57:53,107 --> 01:57:55,097
 My apologies, I do not mean to rush...
 
 919
-01:57:55,359 --> 01:57:57,459
+01:57:55,307 --> 01:57:57,407
 ...but 120 million
 is a large sum of money.
 
 920
-01:57:57,560 --> 01:58:00,410
+01:57:57,508 --> 01:58:00,358
 It certainly is. You didn't bring
 any chocolates with you?
 
 921
-01:58:00,600 --> 01:58:02,720
+01:58:00,548 --> 01:58:02,668
 I'm afraid not.
 
 922
-01:58:03,930 --> 01:58:06,800
+01:58:03,878 --> 01:58:06,748
 If you would type in the account number.
 
 923
-01:58:13,880 --> 01:58:15,279
+01:58:13,828 --> 01:58:15,227
 And now the password.
 
 924
-01:58:16,079 --> 01:58:17,239
+01:58:16,027 --> 01:58:17,187
 You can do that.
 
 925
-01:58:17,949 --> 01:58:20,010
+01:58:17,897 --> 01:58:19,958
 I would if I knew what it was.
 
 926
-01:58:20,619 --> 01:58:22,619
+01:58:20,567 --> 01:58:22,567
 V-E-S-P-E-R.
 
 927
-01:58:37,840 --> 01:58:39,630
+01:58:37,788 --> 01:58:39,578
 The funds have been transferred.
 
 928
-01:58:39,840 --> 01:58:42,699
+01:58:39,788 --> 01:58:42,647
 Sorry for disturbing you.
 
 929
-01:58:44,539 --> 01:58:47,770
+01:58:44,487 --> 01:58:47,718
 - Auf Wiedersehen.
 - Auf Wiedersehen, Herr Mendel.
 
 930
-01:58:54,350 --> 01:58:55,750
+01:58:54,298 --> 01:58:55,698
 You know, James...
 
 931
-01:58:58,359 --> 01:59:01,377
+01:58:58,307 --> 01:59:01,325
 ...I just want you to know
 that if all that was left of you...
 
 932
-01:59:01,460 --> 01:59:04,760
+01:59:01,408 --> 01:59:04,708
 ...was your smile
 and your little finger...
 
 933
-01:59:04,960 --> 01:59:07,810
+01:59:04,908 --> 01:59:07,758
 ...you'd still be more of a man
 than anyone I've ever met.
 
 934
-01:59:17,109 --> 01:59:20,770
+01:59:17,057 --> 01:59:20,718
 That's because you know
 what I can do with my little finger.
 
 935
-01:59:23,649 --> 01:59:27,520
+01:59:23,597 --> 01:59:27,468
 - I have no idea.
 - But you're aching to find out.
 
 936
-01:59:30,789 --> 01:59:34,720
+01:59:30,737 --> 01:59:34,668
 You're not going to let me
 in there, are you?
 
 937
-01:59:35,460 --> 01:59:37,590
+01:59:35,408 --> 01:59:37,538
 You've got your armor back on.
 
 938
-01:59:37,789 --> 01:59:39,020
+01:59:37,737 --> 01:59:38,968
 That's that.
 
 939
-01:59:40,529 --> 01:59:43,090
+01:59:40,477 --> 01:59:43,038
 I have no armor left.
 
 940
-01:59:44,329 --> 01:59:46,829
+01:59:44,277 --> 01:59:46,777
 You've stripped it from me.
 
 941
-01:59:47,699 --> 01:59:50,170
+01:59:47,647 --> 01:59:50,118
 Whatever is left of me...
 
 942
-01:59:50,640 --> 01:59:53,510
+01:59:50,588 --> 01:59:53,458
 Whatever is left of me...
 
 943
-01:59:54,340 --> 01:59:56,310
+01:59:54,288 --> 01:59:56,258
 ...whatever I am...
 
 944
-01:59:56,510 --> 01:59:59,000
+01:59:56,458 --> 01:59:58,948
 ...I'm yours.
 
 945
-02:01:00,439 --> 02:01:03,439
+02:01:00,387 --> 02:01:03,387
 I suppose M won't miss me
 for a couple of days.
 
 946
-02:01:04,180 --> 02:01:06,010
+02:01:04,128 --> 02:01:05,958
 She'll be too busy sweating Mathis.
 
 947
-02:01:06,220 --> 02:01:07,409
+02:01:06,168 --> 02:01:07,357
 Mathis?
 
 948
-02:01:07,619 --> 02:01:09,767
+02:01:07,567 --> 02:01:09,715
 Remember I told you
 about Le Chiffre's tell?
 
 949
-02:01:09,850 --> 02:01:12,289
+02:01:09,798 --> 02:01:12,237
 Well, Mathis told Le Chiffre.
 
 950
-02:01:12,859 --> 02:01:14,409
+02:01:12,807 --> 02:01:14,357
 That's how he wiped me out.
 
 951
-02:01:14,630 --> 02:01:18,289
+02:01:14,578 --> 02:01:18,237
 Same goes for the implant. Can't say
 I'm too sorry about losing that.
 
 952
-02:01:18,500 --> 02:01:20,689
+02:01:18,448 --> 02:01:20,637
 I can't believe it.
 
 953
-02:01:20,899 --> 02:01:22,489
+02:01:20,847 --> 02:01:22,437
 No, neither could I.
 
 954
-02:01:22,970 --> 02:01:25,369
+02:01:22,918 --> 02:01:25,317
 I thought he had my back.
 
 955
-02:01:26,039 --> 02:01:27,829
+02:01:25,987 --> 02:01:27,777
 But there you go, lesson learned.
 
 956
-02:01:29,239 --> 02:01:31,640
+02:01:29,187 --> 02:01:31,588
 Does everyone have a tell?
 
 957
-02:01:33,579 --> 02:01:35,310
+02:01:33,527 --> 02:01:35,258
 Yes.
 
 958
-02:01:38,250 --> 02:01:40,010
+02:01:38,198 --> 02:01:39,958
 Everyone.
 
 959
-02:01:40,420 --> 02:01:42,250
+02:01:40,368 --> 02:01:42,198
 Everyone except you.
 
 960
-02:01:46,720 --> 02:01:48,750
+02:01:46,668 --> 02:01:48,698
 I wonder if that's why I love you.
 
 961
-02:01:50,789 --> 02:01:52,729
+02:01:50,737 --> 02:01:52,677
 You love me?
 
 962
-02:01:53,260 --> 02:01:55,646
+02:01:53,208 --> 02:01:55,594
 Enough to quit
 and float round the world with you...
 
 963
-02:01:55,729 --> 02:01:57,930
+02:01:55,677 --> 02:01:57,878
 ...until one of us
 has to find an honest job.
 
 964
-02:01:58,569 --> 02:02:02,630
+02:01:58,517 --> 02:02:02,578
 But I think that's gonna have to be you.
 I've no idea what an honest job is.
 
 965
-02:02:03,539 --> 02:02:04,970
+02:02:03,487 --> 02:02:04,918
 You're serious.
 
 966
-02:02:05,939 --> 02:02:07,840
+02:02:05,887 --> 02:02:07,788
 Like you said...
 
 967
-02:02:08,409 --> 02:02:10,159
+02:02:08,357 --> 02:02:10,107
 ...you do what I do for too long...
 
 968
-02:02:10,310 --> 02:02:13,109
+02:02:10,258 --> 02:02:13,057
 ...and there won't be any soul
 left to salvage.
 
 969
-02:02:13,319 --> 02:02:16,180
+02:02:13,267 --> 02:02:16,128
 I'm leaving with what little I have left.
 
 970
-02:02:18,189 --> 02:02:20,279
+02:02:18,137 --> 02:02:20,227
 Is that enough for you?
 
 971
-02:04:04,630 --> 02:04:06,529
+02:04:04,578 --> 02:04:06,477
 - Come on.
 - No. No.
 
 972
-02:04:07,029 --> 02:04:10,229
+02:04:06,977 --> 02:04:10,177
 No, stop it. Stop.
 I have to get to the bank.
 
 973
-02:04:10,430 --> 02:04:12,630
+02:04:10,378 --> 02:04:12,578
 What's the time?
 
 974
-02:04:14,869 --> 02:04:16,930
+02:04:14,817 --> 02:04:16,878
 How much do we need to float for a month?
 
 975
-02:04:17,409 --> 02:04:19,170
+02:04:17,357 --> 02:04:19,118
 I've got plenty.
 
 976
-02:04:19,380 --> 02:04:23,310
+02:04:19,328 --> 02:04:23,258
 No, I want to pay for my half
 of our aimless wanderings.
 
 977
-02:04:26,250 --> 02:04:28,579
+02:04:26,198 --> 02:04:28,527
 You stopped wearing the necklace.
 
 978
-02:04:28,789 --> 02:04:31,949
+02:04:28,737 --> 02:04:31,897
 Yeah. It was time.
 
 979
-02:04:32,159 --> 02:04:34,890
+02:04:32,107 --> 02:04:34,838
 Time enough to get over someone?
 
 980
-02:04:39,659 --> 02:04:43,029
+02:04:39,607 --> 02:04:42,977
 To realize sometimes
 you can forget the past.
 
 981
-02:04:51,739 --> 02:04:53,640
+02:04:51,687 --> 02:04:53,588
 Though apparently not your employer.
 
 982
-02:04:58,079 --> 02:05:01,310
+02:04:58,027 --> 02:05:01,258
 Back in one month.
 
 983
-02:05:02,390 --> 02:05:04,789
+02:05:02,338 --> 02:05:04,737
 Come on. I'll get the money...
 
 984
-02:05:04,989 --> 02:05:07,149
+02:05:04,937 --> 02:05:07,097
 ...you get supplies.
 
 985
-02:05:36,819 --> 02:05:39,250
+02:05:36,767 --> 02:05:39,198
 I'll see you back here in half an hour.
 
 986
-02:06:03,750 --> 02:06:06,180
+02:06:03,698 --> 02:06:06,128
 - Hello, M.
 - I got your note.
 
 987
-02:06:06,380 --> 02:06:08,039
+02:06:06,328 --> 02:06:07,987
 Yes?
 
 988
-02:06:08,250 --> 02:06:10,079
+02:06:08,198 --> 02:06:10,027
 We'll talk about that later.
 
 989
-02:06:10,289 --> 02:06:13,279
+02:06:10,237 --> 02:06:13,227
 Right now I have a lovely man
 from the Treasury here...
 
 990
-02:06:13,489 --> 02:06:16,339
+02:06:13,437 --> 02:06:16,287
 ...wondering if you're ever
 going to deposit the winnings.
 
 991
-02:06:19,760 --> 02:06:22,600
+02:06:19,708 --> 02:06:22,548
 That's a shame.
 I didn't think they'd miss it.
 
 992
-02:06:22,800 --> 02:06:26,100
+02:06:22,748 --> 02:06:26,048
 Yes. Well, I told them not to worry.
 
 993
-02:06:26,300 --> 02:06:28,460
+02:06:26,248 --> 02:06:28,408
 So you'll be depositing it today.
 
 994
-02:06:28,810 --> 02:06:31,430
+02:06:28,758 --> 02:06:31,378
 On my way to the bank right now.
 
 995
-02:06:31,840 --> 02:06:34,539
+02:06:31,788 --> 02:06:34,487
 James Bond for Mr. Mendel.
 
 996
-02:06:35,010 --> 02:06:36,170
+02:06:34,958 --> 02:06:36,118
 Hello.
 
 997
-02:06:36,380 --> 02:06:37,480
+02:06:36,328 --> 02:06:37,428
 Mr. Mendel?
 
 998
-02:06:37,631 --> 02:06:39,896
+02:06:37,579 --> 02:06:39,844
 I'm having trouble accessing
 the funds in my account.
 
 999
-02:06:39,979 --> 02:06:41,937
+02:06:39,927 --> 02:06:41,885
 It was transferred
 to the account number...
 
 1000
-02:06:42,020 --> 02:06:44,319
+02:06:41,968 --> 02:06:44,267
 ...your company gave us, Mr. Bond.
 
 1001
-02:06:46,960 --> 02:06:50,359
+02:06:46,908 --> 02:06:50,307
 It appears the funds
 are being withdrawn as we speak.
 
 1002
-02:06:53,060 --> 02:06:55,010
+02:06:53,008 --> 02:06:54,958
 - Where?
 - The Venice branch, of course.
 
 1003
-02:06:55,100 --> 02:06:56,329
+02:06:55,048 --> 02:06:56,277
 St. Mark's Square.
 
 1004
-02:06:58,699 --> 02:07:00,399
+02:06:58,647 --> 02:07:00,347
 Is there a problem, Mr. Bond?
 
 1005
-02:09:13,100 --> 02:09:14,260
+02:09:13,048 --> 02:09:14,208
 I'll kill her!
 
 1006
-02:09:15,270 --> 02:09:16,470
+02:09:15,218 --> 02:09:16,418
 Allow me.
 
 1007
-02:13:36,399 --> 02:13:38,369
+02:13:36,347 --> 02:13:38,317
 I'm sorry, James.
 
 1008
-02:16:50,030 --> 02:16:52,760
+02:16:49,978 --> 02:16:52,708
 She had a boyfriend.
 A French Algerian.
 
 1009
-02:16:52,959 --> 02:16:55,020
+02:16:52,907 --> 02:16:54,968
 They were very much in love.
 
 1010
-02:16:55,430 --> 02:16:58,559
+02:16:55,378 --> 02:16:58,507
 He was kidnapped
 by the organization behind Le Chiffre.
 
 1011
-02:16:58,770 --> 02:17:03,729
+02:16:58,718 --> 02:17:03,677
 And they blackmailed her, threatening
 to kill him unless she cooperated.
 
 1012
-02:17:03,940 --> 02:17:05,427
+02:17:03,888 --> 02:17:05,375
 We should've picked up on it...
 
 1013
-02:17:05,510 --> 02:17:07,857
+02:17:05,458 --> 02:17:07,805
 ...but sometimes
 we're so focused on our enemies...
 
 1014
-02:17:07,940 --> 02:17:09,640
+02:17:07,888 --> 02:17:09,588
 ...we forget to watch our friends.
 
 1015
-02:17:11,110 --> 02:17:12,979
+02:17:11,058 --> 02:17:12,927
 How are you doing?
 
 1016
-02:17:13,319 --> 02:17:15,549
+02:17:13,267 --> 02:17:15,497
 She left her cell phone.
 
 1017
-02:17:15,750 --> 02:17:18,120
+02:17:15,698 --> 02:17:18,068
 She must have known I'd check it.
 
 1018
-02:17:18,920 --> 02:17:21,079
+02:17:18,868 --> 02:17:21,027
 She knew you were you.
 
 1019
-02:17:22,159 --> 02:17:24,389
+02:17:22,107 --> 02:17:24,337
 - Well, at least this clears Mathis.
 - No.
 
 1020
-02:17:24,590 --> 02:17:26,219
+02:17:24,538 --> 02:17:26,167
 - No?
 - No.
 
 1021
-02:17:26,430 --> 02:17:29,046
+02:17:26,378 --> 02:17:28,994
 We just proved that she's guilty,
 not that he's innocent.
 
 1022
-02:17:29,129 --> 02:17:31,629
+02:17:29,077 --> 02:17:31,577
 It could've been a double blind.
 Keep sweating him.
 
 1023
-02:17:32,270 --> 02:17:34,156
+02:17:32,218 --> 02:17:34,104
 You don't trust anyone, do you, James?
 
 1024
-02:17:34,239 --> 02:17:35,860
+02:17:34,187 --> 02:17:35,808
 No.
 
 1025
-02:17:36,370 --> 02:17:38,639
+02:17:36,318 --> 02:17:38,587
 Then you've learnt your lesson.
 
 1026
-02:17:39,440 --> 02:17:41,639
+02:17:39,388 --> 02:17:41,587
 Get back as soon as you can.
 We need you.
 
 1027
-02:17:42,379 --> 02:17:43,540
+02:17:42,327 --> 02:17:43,488
 Will do.
 
 1028
-02:17:45,819 --> 02:17:47,180
+02:17:45,767 --> 02:17:47,128
 If you do need time...
 
 1029
-02:17:47,379 --> 02:17:48,779
+02:17:47,327 --> 02:17:48,727
 Why should I need more time?
 
 1030
-02:17:49,790 --> 02:17:53,049
+02:17:49,738 --> 02:17:52,997
 The job's done, and the bitch is dead.
 
 1031
-02:17:53,989 --> 02:17:55,790
+02:17:53,937 --> 02:17:55,738
 James...
 
 1032
-02:17:56,430 --> 02:17:59,829
+02:17:56,378 --> 02:17:59,777
 ...did you ever ask yourself
 why you weren't killed that night?
 
 1033
-02:18:00,430 --> 02:18:02,120
+02:18:00,378 --> 02:18:02,068
 Isn't it obvious?
 
 1034
-02:18:02,329 --> 02:18:06,290
+02:18:02,277 --> 02:18:06,238
 She made a deal to spare your life
 in exchange for the money.
 
 1035
-02:18:06,500 --> 02:18:08,659
+02:18:06,448 --> 02:18:08,607
 I'm sure she hoped
 they would let her live.
 
 1036
-02:18:10,239 --> 02:18:13,229
+02:18:10,187 --> 02:18:13,177
 But she must have known
 she was going to her death.
 
 1037
-02:18:14,340 --> 02:18:17,280
+02:18:14,288 --> 02:18:17,228
 And now we'll never know
 who was behind this.
 
 1038
-02:18:17,479 --> 02:18:20,040
+02:18:17,427 --> 02:18:19,988
 The trail's gone cold.
 
 1039
-02:19:47,569 --> 02:19:49,469
+02:19:47,517 --> 02:19:49,417
 - Hello.
 - Mr. White?
 
 1040
-02:19:49,670 --> 02:19:51,159
+02:19:49,618 --> 02:19:51,107
 We need to talk.
 
 1041
-02:19:51,370 --> 02:19:53,239
+02:19:51,318 --> 02:19:53,187
 Who is this?
 
 1042
-02:20:23,540 --> 02:20:25,530
+02:20:23,488 --> 02:20:25,478
 The name's Bond.
 
 1043
-02:20:25,739 --> 02:20:27,680
+02:20:25,687 --> 02:20:27,628
 James Bond.
 
 1044
-02:24:32,000 --> 02:24:33,500
+02:24:31,948 --> 02:24:33,448
 ...English...
 
